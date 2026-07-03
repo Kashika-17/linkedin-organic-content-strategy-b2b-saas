@@ -599,3 +599,306 @@ Strengthen Brand Reputation
 This newsletter reinforces one of Devin Reed's most consistent marketing philosophies: organic growth is built through trust rather than attention. Throughout the article, he positions LinkedIn creators as long-term distribution partners capable of expanding brand authority, educating target audiences, and generating sustainable demand. His framework moves influencer marketing beyond promotional campaigns and into a repeatable strategic function within modern B2B SaaS marketing. The emphasis on trust, audience quality, and authentic relationships closely aligns with the objectives of LinkedIn Organic Content Strategy for B2B SaaS.
 
 ---
+
+
+# How to Build Your Marketing Strategy in Claude
+
+**Author:** Emily Kramer  
+**Published:** March 19, 2026  
+**Source:** https://newsletter.mkt1.co/
+
+---
+
+# Executive Summary
+
+Emily Kramer explains how AI should enhance strategic thinking rather than replace it. Instead of using Claude as a simple writing assistant, she advocates building a centralized "marketing strategy skill" that stores positioning, ICPs, messaging, revenue priorities, and campaign frameworks. This living strategy becomes the foundation for every marketing decision, ensuring consistency across content, campaigns, and GTM execution.
+
+The newsletter reinforces that successful B2B content begins with strong strategic inputs. AI accelerates execution, but differentiated content still depends on clear positioning, audience understanding, and repeatable systems. For LinkedIn marketers, this means publishing from a documented strategy rather than reacting to trends or creating disconnected posts.
+
+---
+
+# Key Ideas
+
+## 1. Strategy before content
+
+Most marketers use AI to generate outputs without establishing strategic foundations. Emily argues that AI should execute against a documented strategy instead of replacing strategic thinking.
+
+---
+
+## 2. Build a living marketing operating system
+
+Rather than creating static strategy documents that become outdated, teams should maintain a living strategy inside Claude that continuously evolves with the business.
+
+Core components include:
+
+- Company overview
+- ICP prioritization
+- Positioning
+- Marketing advantages
+- Revenue priorities
+- Brand messaging
+- Campaign strategy
+
+---
+
+## 3. Every marketing decision should reference strategy
+
+Campaigns, LinkedIn posts, newsletters, briefs, webinars, and product launches should all reference the same strategic framework to maintain consistency.
+
+---
+
+## 4. AI amplifies strategic marketers
+
+Claude becomes significantly more valuable when supplied with structured business context rather than isolated prompts.
+
+Better inputs produce better outputs.
+
+---
+
+## 5. Marketing should operate through repeatable systems
+
+Emily recommends building reusable workflows instead of relying on one-off campaigns. Standardized processes improve consistency, scalability, and execution speed.
+
+---
+
+# Frameworks
+
+### Marketing Strategy Skill
+
+Build one central knowledge base containing:
+
+- Company Overview
+- ICP Prioritization
+- Marketing Advantages
+- Core Perceptions
+- Positioning
+- Revenue Levers
+- Big Bet Campaigns
+
+This becomes the foundation for all future marketing work.
+
+---
+
+### Seven Strategic Exercises
+
+1. Company Overview
+2. ICP Prioritization
+3. Marketing Advantages
+4. Perceptions
+5. Positioning
+6. Revenue Levers
+7. Big Bet Campaign Planning
+
+---
+
+# Actionable Advice
+
+- Create one centralized marketing strategy instead of multiple disconnected documents.
+- Reference strategy before writing every LinkedIn post or campaign.
+- Use AI for research, drafting, and execution—not strategic thinking.
+- Continuously update positioning and ICP information as the business evolves.
+- Share strategy across teams to maintain consistent messaging.
+
+---
+
+# Notable Quotes
+
+> "Strategy should become a living system—not a forgotten document."
+
+> "Better inputs create better AI outputs."
+
+> "AI accelerates execution. It doesn't replace strategic thinking."
+
+---
+
+# LinkedIn B2B Content Lessons
+
+Emily's framework directly supports LinkedIn growth by emphasizing:
+
+- Strong positioning before publishing.
+- Consistent messaging across every post.
+- Audience-first content based on ICP research.
+- Repeatable content systems rather than isolated ideas.
+- AI-assisted execution built on human strategy.
+
+---
+
+# Who Should Read This
+
+- B2B Marketing Leaders
+- Founder-Led Marketing Teams
+- Content Marketers
+- GTM Leaders
+- LinkedIn Thought Leaders
+- AI-enabled Marketing Teams
+
+---
+
+# Key Takeaways
+
+- Strategy compounds over time.
+- AI is only as good as the strategy behind it.
+- Centralized knowledge improves every marketing asset.
+- Consistency creates stronger brand positioning.
+- LinkedIn content performs better when driven by documented strategy rather than trends.
+
+## 2. Newsletter 
+# I Analyzed 100 B2B Marketing Teams with Claude Code
+
+**Author:** Emily Kramer  
+**Published:** April 21, 2026  
+**Source:** https://newsletter.mkt1.co/
+
+---
+
+# Executive Summary
+
+Emily Kramer presents a research-driven analysis of 100 high-growth B2B companies using Claude Code to uncover patterns in modern marketing organizations. Instead of relying on opinions, she builds original datasets covering marketing team structures, leadership, hiring trends, AI adoption, GTM models, and content strategies.
+
+The newsletter demonstrates how original research becomes one of the strongest forms of thought leadership. Rather than commenting on existing trends, marketers can build authority by creating proprietary insights that educate their audience. This research-first approach is particularly effective for LinkedIn, where data-backed content consistently outperforms generic opinions.
+
+---
+
+# Key Ideas
+
+## 1. Original research builds authority
+
+Publishing proprietary research creates significantly more credibility than sharing recycled industry opinions.
+
+---
+
+## 2. AI enables faster market research
+
+Claude Code dramatically reduces the effort required to collect, organize, analyze, and visualize large datasets.
+
+Human judgment remains essential for interpreting results.
+
+---
+
+## 3. Marketing is becoming more strategic
+
+High-growth companies increasingly invest in:
+
+- Brand
+- Community
+- Events
+- Ecosystem marketing
+- AI workflows
+- Research-led content
+
+rather than relying exclusively on paid acquisition.
+
+---
+
+## 4. Data tells stronger stories
+
+Statistics become valuable when paired with interpretation and business implications rather than simply presenting charts.
+
+---
+
+## 5. Research creates long-term content assets
+
+One research project can generate:
+
+- LinkedIn posts
+- Newsletters
+- Presentations
+- Reports
+- Webinars
+- Podcast discussions
+- Social graphics
+
+making research one of the highest-leverage content investments.
+
+---
+
+# Frameworks
+
+### Emily's Research Workflow
+
+1. Identify an important business question.
+2. Collect data from multiple companies.
+3. Analyze patterns with AI.
+4. Validate findings.
+5. Visualize results.
+6. Publish actionable insights.
+7. Repurpose findings across multiple content formats.
+
+---
+
+### Research-Led Thought Leadership
+
+Question
+
+↓
+
+Data Collection
+
+↓
+
+Pattern Recognition
+
+↓
+
+Business Insight
+
+↓
+
+Educational Content
+
+↓
+
+Industry Authority
+
+---
+
+# Actionable Advice
+
+- Build original research instead of repeating existing content.
+- Use AI to accelerate analysis, not replace critical thinking.
+- Translate data into practical business insights.
+- Repurpose one research project into multiple content assets.
+- Use proprietary datasets to establish long-term authority.
+
+---
+
+# Notable Quotes
+
+> "Research creates authority."
+
+> "Data becomes valuable when paired with insight."
+
+> "AI speeds up analysis, but humans create meaning."
+
+---
+
+# LinkedIn B2B Content Lessons
+
+This newsletter demonstrates several high-performing LinkedIn strategies:
+
+- Publish original industry research.
+- Support opinions with proprietary data.
+- Share educational frameworks instead of generic advice.
+- Repurpose one research project into multiple LinkedIn posts.
+- Build credibility through evidence rather than personal opinion.
+
+---
+
+# Who Should Read This
+
+- B2B Marketing Leaders
+- Content Strategists
+- GTM Teams
+- Founder-Led Companies
+- LinkedIn Creators
+- AI-enabled Marketing Teams
+
+---
+
+# Key Takeaways
+
+- Original research creates durable competitive advantage.
+- AI dramatically increases research productivity.
+- Data-backed storytelling outperforms opinion-based content.
+- Research can power months of LinkedIn content.
+- Evidence-based marketing builds long-term trust and authority.
