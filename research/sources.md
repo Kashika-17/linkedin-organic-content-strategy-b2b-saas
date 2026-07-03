@@ -74,3 +74,20 @@ Kyle Poyar is one of the leading B2B SaaS growth strategists specializing in pro
 - **Newsletter:** https://www.growthunhinged.com
 - **ChartMogul:** https://chartmogul.com
 - **YouTube:** https://www.youtube.com/results?search_query=Kyle+Poyar
+
+
+# Elena Verna
+
+| **Role** | Head of Growth at Lovable; Former Growth Leader at Dropbox, SurveyMonkey, Miro, Amplitude |
+| **Platforms** | LinkedIn, YouTube, Newsletter, Podcast |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Elena Verna is one of the world's leading B2B SaaS growth experts specializing in product-led growth (PLG), AI-native GTM strategy, monetization, retention, growth loops, and modern growth systems. Her content consistently combines first-principles thinking with practical frameworks backed by real operating experience at hypergrowth SaaS companies. Rather than focusing on generic marketing advice, Elena explains how AI is fundamentally changing product-market fit, customer acquisition, retention, monetization, and organizational structure. Her work provides valuable insights into modern organic B2B growth strategy, making her highly relevant for this research project.
+
+- **LinkedIn:** https://www.linkedin.com/in/elenaverna/
+- **Website / Newsletter:** https://www.elenaverna.com
+- **YouTube:** https://www.youtube.com/@ElenaVerna
+- **Podcast (Lenny's Podcast):** https://www.lennysnewsletter.com/p/the-new-ai-growth-playbook-for-2026
+- **Podcast (Product School):** https://productschool.com/blog/podcast/elena-verna-ai-native-growth-playbook

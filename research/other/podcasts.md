@@ -1213,3 +1213,565 @@ LinkedIn Organic Content Strategy for B2B SaaS
 
 ✅ Podcast Research Completed
 
+# Elena Verna – AI-Native Growth Playbook (Lenny's Podcast)
+
+## Podcast 1 Information
+
+**Speaker:** Elena Verna
+
+**Host:** Lenny Rachitsky
+
+**Platform:** Lenny's Podcast
+
+**Topic:**
+AI-Native Growth, Product-Led Growth, Product-Market Fit, AI SaaS Scaling, Growth Strategy
+
+**Research Category:**
+AI-Native B2B SaaS Growth Strategy
+
+---
+
+# Why this Podcast was Selected
+
+This podcast provides one of the most comprehensive discussions on how artificial intelligence is fundamentally changing B2B SaaS growth.
+
+Drawing from Lovable's rapid growth to over $200M ARR in under a year, Elena explains why traditional SaaS growth playbooks are becoming obsolete and introduces new AI-native principles around product-led acquisition, retention, continuous product-market fit, and rapid experimentation.
+
+The discussion directly supports research into modern B2B SaaS Growth Strategy, AI-first GTM systems, and Product-Led Growth.
+
+---
+
+# Executive Summary
+
+Elena explains that AI-native companies cannot rely on traditional SaaS growth frameworks because customer expectations, competition, and product capabilities evolve continuously.
+
+Instead of depending primarily on paid acquisition, successful AI companies use their products as the primary acquisition channel by allowing users to experience value immediately.
+
+Growth teams increasingly focus on long-term retention rather than activation, while Product-Market Fit becomes an ongoing process rather than a one-time milestone.
+
+Throughout the discussion, Elena demonstrates that sustainable AI growth depends on rapid iteration, continuous innovation, customer delight, and products that naturally generate word-of-mouth.
+
+---
+
+# Key Discussion Topics
+
+- AI-Native Growth
+- Product-Led Growth (PLG)
+- Product-Market Fit
+- Customer Retention
+- Growth Loops
+- AI Product Strategy
+- Freemium Growth
+- Innovation
+- Product Velocity
+- B2B SaaS Scaling
+- Growth Teams
+- Customer Experience
+
+---
+
+# Core Research Observations
+
+### Traditional Growth Playbooks No Longer Apply
+
+Elena estimates that most historical SaaS acquisition strategies have become significantly less effective in AI-native markets.
+
+Companies must rethink distribution, retention, and product strategy.
+
+---
+
+### Product Becomes the Acquisition Channel
+
+Instead of relying heavily on paid marketing, AI companies allow users to experience product value immediately.
+
+The product itself becomes the strongest marketing asset.
+
+---
+
+### Retention Is More Important Than Activation
+
+Because users constantly experiment with new AI products, customer retention has become the primary competitive advantage.
+
+Growth teams should prioritize long-term engagement over first-use optimization.
+
+---
+
+### Product-Market Fit Is Continuous
+
+Product-Market Fit is no longer a fixed milestone.
+
+Companies must continually adapt as customer expectations and AI capabilities evolve.
+
+---
+
+### Minimum Lovable Product (MLP)
+
+The traditional Minimum Viable Product has evolved into a Minimum Lovable Product.
+
+Products must create immediate customer delight rather than simply proving technical feasibility.
+
+---
+
+### Innovation Outweighs Optimization
+
+AI-native companies benefit more from launching valuable capabilities rapidly than endlessly optimizing existing funnels.
+
+---
+
+### Product Teams Own Growth
+
+Growth increasingly shifts into Product organizations as activation, onboarding, retention, and expansion become embedded directly within the product experience.
+
+---
+
+# Growth Frameworks
+
+## AI Growth Framework
+
+Build Product
+
+↓
+
+Give Away Value
+
+↓
+
+Acquire Users
+
+↓
+
+Delight Customers
+
+↓
+
+Retention
+
+↓
+
+Expansion
+
+↓
+
+Organic Growth
+
+---
+
+## Continuous Product-Market Fit Framework
+
+Launch
+
+↓
+
+Collect Feedback
+
+↓
+
+Improve Product
+
+↓
+
+Measure Usage
+
+↓
+
+Refine Positioning
+
+↓
+
+Repeat
+
+---
+
+## Minimum Lovable Product Framework
+
+Core Functionality
+
+↓
+
+Excellent Experience
+
+↓
+
+Immediate Value
+
+↓
+
+Customer Delight
+
+↓
+
+Word-of-Mouth
+
+↓
+
+Organic Growth
+
+---
+
+## AI-Native Growth Loop
+
+Innovation
+
+↓
+
+User Adoption
+
+↓
+
+Feedback
+
+↓
+
+Rapid Iteration
+
+↓
+
+Better Product
+
+↓
+
+Higher Retention
+
+↓
+
+Compounding Growth
+
+---
+
+# AI Growth Lessons
+
+Elena highlights several recurring principles throughout the discussion:
+
+- Build products users genuinely enjoy.
+- Prioritize retention over acquisition.
+- Treat Product-Market Fit as continuous.
+- Ship quickly and learn continuously.
+- Allow the product to become the marketing channel.
+- Optimize customer delight rather than minimum functionality.
+
+---
+
+# Actionable Takeaways
+
+- Focus on Product-Led Growth before paid acquisition.
+- Build products users love immediately.
+- Continuously reassess Product-Market Fit.
+- Prioritize retention metrics.
+- Increase product release velocity.
+- Use customer feedback to guide product direction.
+- Treat innovation as a competitive advantage.
+- Build referral and word-of-mouth loops.
+- Reduce friction during onboarding.
+- Create products that naturally encourage sharing.
+
+---
+
+# Personal Research Notes
+
+This podcast reinforces Elena Verna's philosophy that AI-native companies require fundamentally different growth systems than traditional SaaS businesses.
+
+The strongest recurring ideas include:
+
+- Product is the primary growth engine.
+- Growth depends on continuous Product-Market Fit.
+- Retention drives sustainable expansion.
+- Innovation replaces optimization.
+- Product experience creates organic distribution.
+- Customer delight fuels long-term growth.
+
+These principles closely align with AI-native Product-Led Growth and modern B2B SaaS GTM strategy.
+
+---
+
+# References
+
+### Primary Source
+
+Lenny's Podcast
+
+**Episode:**
+The New AI Growth Playbook for 2026: How Lovable Hit $200M ARR in One Year
+
+**Research Theme:**
+AI-Native Product-Led Growth Strategy
+
+---
+
+# Elena Verna – The AI-Native Growth Playbook (Product School Podcast)
+
+## Podcast 2 Information
+
+**Speaker:** Elena Verna
+
+**Host:** Carlos Gonzalez de Villaumbrosia
+
+**Platform:** Product School – The Product Podcast
+
+**Topic:**
+AI-Native Product Strategy, Product-Led Growth, Growth Loops, AI Product Teams
+
+**Research Category:**
+AI-Native Product Strategy & B2B SaaS Growth
+
+---
+
+# Why this Podcast was Selected
+
+This discussion explains how AI-native companies should rethink Product-Led Growth, product organizations, branding, growth loops, and Product-Market Fit.
+
+Using Lovable as the primary case study, Elena describes how AI changes product development, launch strategy, growth teams, customer education, and monetization.
+
+The conversation directly supports research into modern AI-native B2B SaaS growth systems.
+
+---
+
+# Executive Summary
+
+Elena argues that AI-native companies must replace traditional product development cycles with continuous experimentation and rapid iteration.
+
+Rather than relying solely on Product-Led Growth, companies should build AI-native growth loops where every customer interaction improves future acquisition, retention, and expansion.
+
+She also explains that brand experience is increasingly owned by the product itself, making every interaction part of the growth strategy.
+
+---
+
+# Key Discussion Topics
+
+- AI-Native Product Strategy
+- Product-Led Growth
+- Growth Loops
+- Product Velocity
+- Product-Market Fit
+- Product Branding
+- Customer Education
+- Referral Systems
+- AI Monetization
+- Product Teams
+- Feedback Loops
+- B2B SaaS Growth
+
+---
+
+# Core Research Observations
+
+### Velocity Is a Competitive Advantage
+
+Rapid product releases allow AI companies to respond quickly to changing customer expectations.
+
+---
+
+### Product-Market Fit Evolves Constantly
+
+AI products require continuous adaptation because technology and customer behavior change rapidly.
+
+---
+
+### Product Creates Brand
+
+Brand perception increasingly comes from product experience rather than marketing campaigns.
+
+---
+
+### Growth Loops Replace Funnels
+
+Compounding customer actions create stronger long-term growth than linear acquisition funnels.
+
+---
+
+### Product Teams Own Customer Education
+
+Education becomes part of the product experience rather than a separate marketing activity.
+
+---
+
+### Feedback Drives Product Improvement
+
+Continuous customer feedback fuels faster product improvements and stronger retention.
+
+---
+
+### Referrals Become Built-In
+
+Products should naturally encourage sharing through exceptional customer experiences.
+
+---
+
+# Growth Frameworks
+
+## AI-Native Product Loop
+
+Launch
+
+↓
+
+Customer Feedback
+
+↓
+
+Rapid Improvements
+
+↓
+
+Better Experience
+
+↓
+
+More Sharing
+
+↓
+
+Organic Growth
+
+---
+
+## Product-Led Brand Framework
+
+Product Experience
+
+↓
+
+Customer Satisfaction
+
+↓
+
+Trust
+
+↓
+
+Referrals
+
+↓
+
+Brand Growth
+
+---
+
+## Continuous Growth Loop
+
+Product Usage
+
+↓
+
+Behavior Insights
+
+↓
+
+Product Improvements
+
+↓
+
+Customer Success
+
+↓
+
+Expansion
+
+↓
+
+Compounding Growth
+
+---
+
+## Product Velocity Framework
+
+Build
+
+↓
+
+Ship
+
+↓
+
+Measure
+
+↓
+
+Learn
+
+↓
+
+Improve
+
+↓
+
+Repeat
+
+---
+
+# Product Strategy Lessons
+
+Elena demonstrates that AI-native growth depends on:
+
+- Shipping rapidly.
+- Building customer delight.
+- Embedding education into products.
+- Designing compounding growth loops.
+- Treating Product-Market Fit as dynamic.
+- Using product experience as brand marketing.
+
+---
+
+# Actionable Takeaways
+
+- Increase shipping velocity.
+- Build AI-native growth loops.
+- Treat product as the primary brand experience.
+- Continuously improve Product-Market Fit.
+- Design products around customer feedback.
+- Focus on retention before expansion.
+- Create referral-friendly product experiences.
+- Align product and growth teams.
+- Build education directly into onboarding.
+- Measure long-term customer engagement.
+
+---
+
+# Personal Research Notes
+
+This discussion complements Elena Verna's broader philosophy that AI-native growth requires organizational speed, continuous customer learning, and product-first marketing.
+
+The strongest recurring ideas include:
+
+- Product drives brand.
+- Growth loops outperform funnels.
+- Velocity creates competitive advantage.
+- Product-Market Fit is dynamic.
+- AI changes organizational design.
+- Sustainable growth comes from exceptional product experiences.
+
+These principles strongly align with AI-native Product-Led Growth and modern B2B SaaS strategy.
+
+---
+
+# References
+
+### Primary Source
+
+The Product Podcast (Product School)
+
+**Episode:**
+Lovable Head of Growth on The New AI-Native Growth Playbook
+
+**Research Theme:**
+AI-Native Product Strategy & Growth Systems
+
+---
+
+# Research Status
+
+**Podcasts Reviewed:** 2
+
+### Primary Focus Areas
+
+- AI-Native Growth
+- Product-Led Growth
+- Product Strategy
+- Growth Loops
+- Product-Market Fit
+- Product Velocity
+- Customer Retention
+- AI SaaS Scaling
+
+**Status**
+
+✅ Podcast Research Completed
