@@ -1775,3 +1775,172 @@ AI-Native Product Strategy & Growth Systems
 **Status**
 
 ✅ Podcast Research Completed
+
+
+# Kait Stephens
+
+
+# Podcast 1 — Building an Omnichannel Brand Through Customer Relationships (Danny Taing – Bokksu)
+
+**Platform:** The Omnichannel Marketer Podcast
+
+**Host:** Kait Stephens
+
+**Guest:** Danny Taing (Founder & CEO, Bokksu)
+
+**Theme:**
+Omnichannel Growth | Customer Retention | Brand Building | Customer-Centric Marketing
+
+---
+
+## Executive Summary
+
+In this episode, Kait Stephens interviews Danny Taing, Founder and CEO of Bokksu, about building an omnichannel consumer brand by combining cultural storytelling with long-term customer relationships.
+
+Danny explains how Bokksu evolved from a subscription box business into a broader omnichannel retail brand by continuously listening to customer feedback, improving retention, and expanding strategically into retail.
+
+Rather than pursuing rapid expansion alone, the discussion emphasizes sustainable growth through strong branding, customer loyalty, and consistent customer experiences across every channel.
+
+The episode reinforces Kait's philosophy that successful growth comes from owning customer relationships instead of depending solely on acquisition channels.
+
+---
+
+## Key Insights
+
+### 1. Customer Feedback Drives Product Strategy
+
+Bokksu continuously uses customer feedback to improve product selection, messaging, and overall customer experience.
+
+---
+
+### 2. Retention Matters More Than Acquisition
+
+Subscription businesses create recurring revenue only when customers continue receiving value over time.
+
+Long-term retention is a stronger growth driver than constant customer acquisition.
+
+---
+
+### 3. Omnichannel Expansion Requires Different Playbooks
+
+Moving from direct-to-consumer into retail requires different operational strategies while maintaining consistent customer experiences.
+
+---
+
+### 4. Strong Brands Create Sustainable Growth
+
+Danny emphasizes that memorable brands outperform businesses relying solely on paid acquisition or short-term growth tactics.
+
+---
+
+### 5. Cultural Storytelling Builds Emotional Connection
+
+Rather than simply selling products, Bokksu builds customer loyalty by telling authentic stories around Japanese culture and food experiences.
+
+---
+
+## Recurring Marketing Principles
+
+- Customer-first thinking
+- Omnichannel consistency
+- Long-term retention
+- Brand storytelling
+- Sustainable growth
+
+---
+
+## Why This Podcast Matters
+
+This conversation aligns closely with Kait Stephens' philosophy that customer ownership, retention, and omnichannel experiences create stronger businesses than short-term acquisition strategies alone.
+
+---
+
+## Personal Research Notes
+
+The discussion demonstrates how educational storytelling, customer feedback, and consistent brand experiences become competitive advantages across multiple sales channels.
+
+# Podcast 2 — Brand Before Growth: Building Omnichannel Experiences (Foujan Volk – Parachute Home)
+
+**Platform:** The Omnichannel Marketer Podcast
+
+**Host:** Kait Stephens
+
+**Guest:** Foujan Volk (VP of Brand & Marketing, Parachute Home)
+
+**Theme:**
+Brand Strategy | Omnichannel Marketing | Customer Experience | Retail Growth
+
+---
+
+## Executive Summary
+
+In this episode, Kait Stephens speaks with Foujan Volk about how Parachute Home built a premium omnichannel brand by prioritizing customer experience before growth.
+
+Foujan explains that sustainable growth depends on building a recognizable brand rather than relying exclusively on performance marketing.
+
+The conversation explores how physical retail, experiential marketing, wholesale partnerships, and direct-to-consumer channels work together to strengthen customer trust and long-term loyalty.
+
+Rather than treating each channel independently, Parachute focuses on creating one consistent brand experience wherever customers choose to shop.
+
+---
+
+## Key Insights
+
+### 1. Brand Is the Foundation of Growth
+
+Performance marketing produces short-term results, but strong brands generate lasting customer relationships.
+
+---
+
+### 2. Omnichannel Means Meeting Customers Everywhere
+
+Customers should receive a consistent experience across:
+
+- DTC
+- Retail Stores
+- Wholesale Partners
+- Online Channels
+
+---
+
+### 3. Retail Creates Brand Experiences
+
+Physical stores allow customers to interact with products directly, strengthening trust and increasing purchase confidence.
+
+---
+
+### 4. Test Retail Before Scaling
+
+Companies should validate retail performance through controlled pilots before expanding into larger retail footprints.
+
+---
+
+### 5. Consistency Builds Customer Trust
+
+Every customer interaction should reinforce the same brand identity regardless of channel.
+
+---
+
+## Recurring Marketing Principles
+
+- Brand-first marketing
+- Customer experience
+- Omnichannel consistency
+- Strategic retail expansion
+- Long-term customer trust
+
+---
+
+## Why This Podcast Matters
+
+This episode reinforces Kait Stephens' broader philosophy that sustainable growth comes from combining strong branding, customer ownership, and consistent omnichannel experiences rather than depending solely on paid marketing.
+
+---
+
+## Personal Research Notes
+
+The conversation complements Kait's LinkedIn content around customer relationships, first-party data, and omnichannel growth by showing how brand consistency becomes a long-term competitive advantage.
+
+**Status**
+
+✅ Podcast Research Completed

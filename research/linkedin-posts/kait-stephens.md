@@ -820,7 +820,6 @@ Finally, Kait demonstrates how AI is changing organizational behavior rather tha
 - YouTube Videos Reviewed: 2
 - YouTube Videos Selected: 2
 - Podcast Episodes Reviewed: 2
-- Newsletter Articles Reviewed: 2
 
 ### Key Research Areas
 
