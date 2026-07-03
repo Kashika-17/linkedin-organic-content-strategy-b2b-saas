@@ -4,9 +4,9 @@
 
 This repository contains a structured research project focused on **LinkedIn Organic Content Strategy for B2B SaaS**.
 
-The objective of this project is to identify experienced practitioners who actively execute LinkedIn content strategies for B2B SaaS companies, collect their latest educational content from multiple platforms, organize the research into a structured knowledge base, and build a foundation for future playbooks and marketing frameworks.
+The objective of this project is to identify experienced practitioners who actively execute LinkedIn content strategies for B2B SaaS companies, collect their educational content from multiple platforms, organize the research into a structured knowledge base, and build a foundation for future playbooks and marketing frameworks.
 
-The repository emphasizes **quality over quantity**, focusing on experts who actively practice what they teach rather than generic marketing influencers.
+The repository emphasizes **quality over quantity**, focusing on practitioners who actively execute what they teach rather than generic marketing influencers.
 
 ---
 
@@ -37,13 +37,13 @@ The purpose of this repository is to:
 
 - Identify leading practitioners in LinkedIn Organic Marketing
 - Study how experienced marketers create, distribute, and scale content
-- Analyze recurring writing styles, engagement strategies, positioning techniques, and content frameworks
+- Analyze recurring writing styles, engagement strategies, positioning techniques, storytelling frameworks, and content systems
 - Collect recent LinkedIn posts
 - Collect YouTube transcripts using APIs
 - Collect relevant podcast discussions
-- Collect newsletters and supporting articles
+- Collect newsletters and long-form educational content
 - Build reusable documentation for future execution
-- Create a research repository that can later be transformed into practical playbooks and growth frameworks
+- Create a structured research repository that can later be transformed into practical marketing playbooks and growth frameworks
 
 ---
 
@@ -53,70 +53,78 @@ Experts were selected using the following criteria:
 
 - Active practitioners in B2B SaaS marketing
 - Consistently publish educational content
-- Share practical execution instead of theoretical advice
-- Strong presence across LinkedIn, YouTube, podcasts, newsletters, or communities
+- Share practical execution rather than theoretical advice
+- Strong presence across LinkedIn, YouTube, podcasts, newsletters, and professional communities
 - Demonstrated experience building SaaS products, marketing teams, communities, or media brands
 - Produce original insights rather than repeating common marketing advice
 
-The goal was to prioritize **signal over popularity**.
+The objective was to prioritize **signal over popularity** by studying operators with proven execution experience.
 
 ---
 
 # Repository Structure
 
-```
+```text
 linkedin-organic-content-strategy-b2b-saas/
 
 │
 ├── research/
-│   │
-│   ├── sources.md
-│   │
-│   ├── linkedin-posts/
-│   │      ├── adam-robinson.md
-│   │      ├── dave-gerhardt.md
-│   │      ├── devin-reed.md
-│   │      ├── elena-verna.md
-│   │      ├── emily-kramer.md
-│   │      ├── kait-stephens.md
-│   │      ├── kieran-flanagan.md
-│   │      ├── kyle-poyar.md
-│   │      ├── ross-simmonds.md
-│   │      └── udi-ledergor.md
-│   │
-│   ├── youtube-transcripts/
-│   │      ├── individual transcript files
-│   │      └── organized by video
-│   │
-│   ├── other/
-│   │      ├── podcasts.md
-│   │      ├── newsletters.md
-│   │      └── articles.md
+│
+├── sources.md
+│
+├── linkedin-posts/
+│      ├── adam-robinson.md
+│      ├── dave-gerhardt.md
+│      ├── devin-reed.md
+│      ├── elena-verna.md
+│      ├── emily-kramer.md
+│      ├── kait-stephens.md
+│      ├── kieran-flanagan.md
+│      ├── kyle-poyar.md
+│      ├── ross-simmonds.md
+│      └── udi-ledergor.md
+│
+├── youtube-transcripts/
+│      ├── individual transcript files
+│      └── organized by video
+│
+├── other/
+│      ├── podcasts.md
+│      └── newsletters.md
 │
 ├── fetch_transcript.py
 ├── requirements.txt
-├── .env
 ├── .gitignore
-└── README.md
+├── README.md
+└── .env (local only, excluded from Git)
 ```
 
 ---
 
 # Research Methodology
 
-The repository was built using the following workflow:
+The repository was built using the following workflow.
 
-### 1. Expert Discovery
+## 1. Expert Discovery
 
 Researched experienced B2B SaaS marketers through LinkedIn, YouTube, podcasts, newsletters, and professional communities.
 
+Focus areas included:
+
+- Organic growth
+- SaaS marketing
+- Thought leadership
+- Product marketing
+- AI-enabled marketing
+- Content strategy
+
 ---
 
-### 2. LinkedIn Research
+## 2. LinkedIn Research
 
 Collected recent LinkedIn posts from each selected practitioner.
 
-Focused on:
+Analysis focused on:
 
 - Writing style
 - Positioning
@@ -125,58 +133,49 @@ Focused on:
 - Calls-to-action
 - Audience engagement
 - Recurring themes
+- Mental models
+- Content frameworks
+- Marketing principles
 
 ---
 
-### 3. YouTube Transcript Collection
+## 3. YouTube Transcript Collection
 
-A custom Python script (`fetch_transcript.py`) was created to retrieve YouTube transcripts using the **Supadata API**.
+A custom Python script (`fetch_transcript.py`) was developed to retrieve YouTube transcripts using the **Supadata API**.
 
 This demonstrates:
 
 - API integration
 - Python scripting
 - Environment variable management
-- Automated research workflow
+- Automated research workflows
 
-Transcripts were organized by individual video inside:
+All transcripts are organized by individual video under:
 
-```
+```text
 research/youtube-transcripts/
 ```
 
 ---
 
-### 4. Podcast Research
+## 4. Podcast Research
 
-Relevant podcast episodes discussing LinkedIn marketing, B2B content strategy, brand building, community-led growth, creator marketing, and SaaS growth were documented inside:
+Relevant podcast episodes discussing LinkedIn marketing, B2B SaaS growth, AI-enabled marketing, brand building, community-led growth, content strategy, and thought leadership were documented inside:
 
-```
+```text
 research/other/podcasts.md
 ```
 
 ---
 
-### 5. Newsletter Research
+## 5. Newsletter Research
 
 Newsletters published by selected experts were reviewed to capture long-form strategic thinking beyond social media posts.
 
 Stored inside:
 
-```
+```text
 research/other/newsletters.md
-```
-
----
-
-### 6. Supporting Articles
-
-Relevant long-form articles were collected when they added additional strategic value.
-
-Stored inside:
-
-```
-research/other/articles.md
 ```
 
 ---
@@ -195,6 +194,23 @@ research/other/articles.md
 
 ---
 
+# Experts Researched
+
+The repository includes research on the following B2B SaaS practitioners:
+
+1. Adam Robinson
+2. Dave Gerhardt
+3. Devin Reed
+4. Elena Verna
+5. Emily Kramer
+6. Kait Stephens
+7. Kieran Flanagan
+8. Kyle Poyar
+9. Ross Simmonds
+10. Udi Ledergor
+
+---
+
 # Research Status
 
 - ✅ Repository initialized
@@ -203,12 +219,13 @@ research/other/articles.md
 - ✅ Python environment configured
 - ✅ Supadata API integrated
 - ✅ Transcript automation implemented
-- ✅ LinkedIn research in progress
-- ✅ YouTube transcript collection in progress
-- ✅ Podcast research in progress
-- ✅ Newsletter research in progress
-- 🟡 Cross-expert framework analysis in progress
-- 🟡 Master playbook in progress
+- ✅ LinkedIn research completed
+- ✅ YouTube transcript collection completed
+- ✅ Podcast research completed
+- ✅ Newsletter research completed
+- ✅ Research sources documented
+- ✅ Expert profiles completed
+- ✅ Repository finalized
 
 ---
 
@@ -217,23 +234,28 @@ research/other/articles.md
 This repository contains:
 
 - Expert directory
-- LinkedIn post research
+- LinkedIn research
 - YouTube transcript collection
 - Podcast research
 - Newsletter research
-- Supporting articles
 - Research sources
 - Cross-expert observations
 - Marketing frameworks
 - Practical implementation insights
+- Structured documentation for future playbooks
 
 ---
+# License
+
+This repository was created solely for educational and research purposes as part of the 100Hires Technical Assessment.
+
+All referenced content remains the intellectual property of its respective authors and has been summarized, analyzed, and organized for research purposes only.
 
 # Final Outcome
 
-The goal of this repository is to create a structured, reusable research database that can later be transformed into practical LinkedIn Organic Content Strategy playbooks for B2B SaaS companies.
+The goal of this repository is to create a structured, reusable research database that can later be transformed into practical **LinkedIn Organic Content Strategy** playbooks for B2B SaaS companies.
 
-The emphasis throughout the project is on collecting **high-signal practitioner knowledge**, organizing it systematically, and documenting repeatable marketing frameworks.
+Rather than collecting large amounts of generic content, this repository focuses on **high-signal practitioner knowledge**, organizes it systematically, and documents repeatable frameworks, positioning strategies, storytelling techniques, and execution principles that can support future marketing playbooks.
 
 ---
 
