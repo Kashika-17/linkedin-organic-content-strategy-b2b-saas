@@ -91,3 +91,19 @@ Elena Verna is one of the world's leading B2B SaaS growth experts specializing i
 - **YouTube:** https://www.youtube.com/@ElenaVerna
 - **Podcast (Lenny's Podcast):** https://www.lennysnewsletter.com/p/the-new-ai-growth-playbook-for-2026
 - **Podcast (Product School):** https://productschool.com/blog/podcast/elena-verna-ai-native-growth-playbook
+
+
+# Kait Stephens
+
+| **Role** | Founder & CEO, Brij |
+| **Platforms** | LinkedIn, YouTube, Podcast, Company Website |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Kait Stephens is a leading expert in omnichannel commerce, first-party data strategy, AI-enabled customer engagement, and retail marketing. As the Founder and CEO of Brij, she consistently shares practical frameworks on transforming anonymous retail buyers into owned customer relationships through first-party data, omnichannel experiences, and AI-powered workflows. Rather than focusing on traditional demand generation or paid acquisition, Kait emphasizes customer ownership, omnichannel growth, AI adoption, and educational thought leadership. Her work provides valuable insights into modern organic B2B marketing, founder-led content strategy, customer data infrastructure, and AI-driven commerce, making her highly relevant for this research project.
+
+- **LinkedIn:** https://www.linkedin.com/in/kait-margraf-stephens/
+- **Company Website:** https://www.brij.it
+- **YouTube:** https://www.youtube.com/@Brij
+- **Podcast (The Omnichannel Marketer):** https://www.theomnichannelmarketer.com
