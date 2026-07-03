@@ -42,3 +42,20 @@ Emily Kramer is one of the most respected B2B SaaS marketing strategists and pra
 - **Website:** https://www.mkt1.co
 - **Newsletter:** https://newsletter.mkt1.co
 - **YouTube:** https://www.youtube.com/@MKT1
+
+# Udi Ledergor
+
+| **Role** | Chief Evangelist at Gong; Former Chief Marketing Officer (CMO); Author of *Courageous Marketing* |
+| **Platforms** | LinkedIn, YouTube, Podcasts, Book |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Udi Ledergor is one of the leading voices in B2B SaaS brand building, category creation, and courageous marketing. As the first marketer and former CMO at Gong, he helped transform the company into one of the most recognized B2B SaaS brands through organic content, employee advocacy, educational marketing, and thought leadership rather than relying primarily on paid acquisition. His work consistently demonstrates how proprietary research, distinctive positioning, founder and employee branding, and long-term brand building create sustainable competitive advantage. Unlike marketers who focus on short-term growth tactics, Udi emphasizes trust, originality, category leadership, and content systems that compound over time, making his work highly relevant to LinkedIn Organic Content Strategy for B2B SaaS.
+
+- **LinkedIn:** https://www.linkedin.com/in/udiledergor/
+- **Company:** https://www.gong.io
+- **Book:** https://www.courageousmarketing.com
+- **YouTube (Gong):** https://www.youtube.com/@Gong_io
+- **Exit Five Podcast:** https://www.exitfive.com/podcast/
+- **GTM Now Podcast:** https://gtmnow.com/podcast/
