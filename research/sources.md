@@ -123,3 +123,24 @@ Kieran Flanagan is one of the world's leading B2B marketing strategists speciali
 - **YouTube (Marketing Against The Grain / Interviews):** https://www.youtube.com/@marketingagainstthegrain
 - **Podcast (Marketing Against The Grain):** https://hubspot.com/podcasts/marketing-against-the-grain
 - **HubSpot:** https://www.hubspot.com/
+
+# Ross Simmonds
+
+| **Role** | Founder & CEO, Foundation Marketing; Author; B2B Content Strategist |
+| **Platforms** | LinkedIn, Newsletter, YouTube, Podcast |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Ross Simmonds is one of the leading authorities on B2B content marketing, content distribution, organic growth, SEO, AI visibility, and media-first marketing strategy. Unlike marketers who focus primarily on content creation, Ross consistently emphasizes that sustainable growth comes from strategic distribution, multi-channel publishing, and building authority across the entire digital ecosystem.
+
+His work combines years of operating experience with original research, real client case studies, and practical frameworks for helping B2B companies increase organic visibility across Google, YouTube, Reddit, LinkedIn, newsletters, podcasts, and emerging AI search platforms such as ChatGPT, Gemini, and Perplexity. Rather than chasing platform algorithms or short-term growth hacks, Ross teaches organizations how to build repeatable content engines that compound over time through distribution, optimization, and educational thought leadership.
+
+His research is particularly valuable for understanding how AI is reshaping SEO, search behavior, content discovery, and organic B2B growth, making his work highly relevant for this research project.
+
+- **LinkedIn:** https://www.linkedin.com/in/rosssimmonds/
+- **Website / Newsletter:** https://www.createonce.com/
+- **Company (Foundation Marketing):** https://foundationinc.co/
+- **YouTube:** https://www.youtube.com/@RossSimmonds
+- **Podcast (Page 2 Podcast):** https://page2podcast.com/
+- **Podcast (The Ross Simmonds Show):** https://www.createonce.com/podcast
