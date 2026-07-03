@@ -669,7 +669,7 @@ Finally, Elena consistently demonstrates that modern SaaS growth depends less on
 - YouTube Videos Reviewed: 2
 - YouTube Videos Selected: 2
 - Newsletter Articles Reviewed: 2
-- Podcast Episodes Reviewed: Multiple
+- Podcast Episodes Reviewed: 2
 - Primary Research Theme: AI-Native Growth, Product-Led Growth, Monetization, Organic Distribution, B2B SaaS Growth
 
 ### Key Research Areas

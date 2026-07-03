@@ -974,7 +974,7 @@ Finally, his emphasis on founder branding illustrates an important shift within 
 - LinkedIn Posts Selected: 3
 - YouTube Videos Reviewed: 5
 - YouTube Videos Selected: 2
-- Podcast Episodes Reviewed: 2
+- Newsletter Reviewed: 2
 - Primary Research Theme: Founder-Led Marketing, AI-Powered GTM, LinkedIn Organic Growth
 
 ### Key Research Areas
