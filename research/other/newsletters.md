@@ -445,3 +445,157 @@ Sustainable Organic Growth
 ## Personal Research Notes
 
 This newsletter reinforces one of Adam Robinson's most consistent themes: the founder is the company's primary marketing engine. Instead of purchasing attention, founders should continuously earn attention through educational content, transparent storytelling, and meaningful community engagement. This philosophy aligns closely with the research objective of understanding successful LinkedIn Organic Content Strategy for B2B SaaS companies.
+
+
+# Devin Reed
+
+## Newsletter
+
+### Title
+
+How I Structure B2B Influencer Deals: Lessons from Playing Both Sides of the Game
+
+### Published
+
+December 2, 2023
+
+### Author
+
+Devin Reed
+
+### Source
+
+https://www.thereeder.co/
+
+---
+
+## Executive Summary
+
+In this newsletter, Devin Reed shares his unique perspective as both a B2B marketing leader responsible for investing in influencer marketing and as a creator monetizing his own personal brand. Drawing from his experience managing a six-figure influencer marketing budget at Clari while simultaneously working with brands as a LinkedIn creator, he presents a practical framework for evaluating influencer partnerships. Rather than viewing influencer marketing as paid promotion, Devin positions it as a trust-building strategy that accelerates brand awareness, content distribution, and pipeline generation.
+
+---
+
+## Why This Matters for LinkedIn Organic Strategy
+
+LinkedIn has become one of the most influential channels for B2B creator marketing. Devin argues that companies should stop evaluating creators based solely on follower counts and instead focus on their ability to build trust within highly targeted communities.
+
+Key LinkedIn principles include:
+
+- Trust is more valuable than reach.
+- Personal brands outperform corporate messaging.
+- Long-term creator relationships generate stronger business outcomes.
+- Authentic influence drives conversations and buying decisions.
+- LinkedIn creators function as strategic distribution partners rather than advertising channels.
+
+This newsletter demonstrates how influencer marketing strengthens LinkedIn organic growth by expanding credibility, audience reach, and community engagement.
+
+---
+
+## Core Insights
+
+### 1. Build Trust at Scale
+
+According to Devin, the primary objective of influencer marketing is not maximizing impressions but building trust with the right audience.
+
+Follower count affects pricing, but it should never determine whether a creator is selected.
+
+The most valuable creators consistently influence the exact buyers a company wants to reach.
+
+---
+
+### 2. Influence Is More Valuable Than Popularity
+
+Devin distinguishes between creators who are popular and creators who genuinely influence decision-makers.
+
+Many creators generate impressive engagement metrics without creating meaningful business impact.
+
+Successful partnerships prioritize audience credibility over audience size.
+
+---
+
+### 3. Evaluate Every Partnership Through Three Value Buckets
+
+Rather than measuring campaigns through one KPI, Devin recommends evaluating creator investments across three business outcomes.
+
+#### Audience Reach
+
+Extend strategic messaging by accessing trusted creator communities and increasing organic distribution.
+
+#### Content Production
+
+Co-create valuable educational assets such as webinars, guides, interviews, and videos that continue generating value beyond a single campaign.
+
+#### Pipeline Generation
+
+Measure business impact through qualified traffic, gated assets, webinars, and attribution mechanisms while recognizing that trust often compounds before revenue appears.
+
+---
+
+### 4. Protect Brand Equity
+
+As both a marketing leader and creator, Devin intentionally declines the majority of partnership opportunities.
+
+Long-term brand credibility is more valuable than maximizing short-term sponsorship revenue.
+
+Every collaboration should strengthen rather than dilute audience trust.
+
+---
+
+### 5. Creator Marketing Is Becoming Strategic Marketing
+
+Devin predicts that B2B influencer marketing will evolve beyond sponsored LinkedIn posts into deeper strategic partnerships similar to athlete endorsement models.
+
+Companies will increasingly invest in creators who consistently build trust with their ideal customer profiles.
+
+---
+
+## Framework Extracted
+
+Identify Ideal Audience
+
+↓
+
+Find Trusted Industry Creators
+
+↓
+
+Evaluate Trust Instead of Followers
+
+↓
+
+Measure Audience Reach
+
+↓
+
+Co-Create Educational Content
+
+↓
+
+Generate Qualified Pipeline
+
+↓
+
+Build Long-Term Partnerships
+
+↓
+
+Strengthen Brand Reputation
+
+---
+
+## Key Takeaways
+
+- Trust should be the primary objective of influencer marketing.
+- Audience relevance is more important than follower count.
+- Evaluate partnerships using audience reach, content production, and pipeline contribution.
+- Protect long-term brand equity by choosing partnerships carefully.
+- View LinkedIn creators as strategic business partners rather than advertising channels.
+- Sustainable creator relationships outperform one-time sponsorships.
+
+---
+
+## Personal Research Notes
+
+This newsletter reinforces one of Devin Reed's most consistent marketing philosophies: organic growth is built through trust rather than attention. Throughout the article, he positions LinkedIn creators as long-term distribution partners capable of expanding brand authority, educating target audiences, and generating sustainable demand. His framework moves influencer marketing beyond promotional campaigns and into a repeatable strategic function within modern B2B SaaS marketing. The emphasis on trust, audience quality, and authentic relationships closely aligns with the objectives of LinkedIn Organic Content Strategy for B2B SaaS.
+
+---
