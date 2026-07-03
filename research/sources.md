@@ -59,3 +59,18 @@ Udi Ledergor is one of the leading voices in B2B SaaS brand building, category c
 - **YouTube (Gong):** https://www.youtube.com/@Gong_io
 - **Exit Five Podcast:** https://www.exitfive.com/podcast/
 - **GTM Now Podcast:** https://gtmnow.com/podcast/
+
+# Kyle Poyar
+
+| **Role** | Operating Partner at Tremont; Analyst in Residence at ChartMogul; Author of Growth Unhinged |
+| **Platforms** | LinkedIn, YouTube, Newsletter |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Kyle Poyar is one of the leading B2B SaaS growth strategists specializing in product-led growth, AI-enabled GTM, pricing strategy, monetization, newsletters, storytelling, and organic demand generation. His work combines proprietary research, practical growth frameworks, and AI-powered workflows to help companies build sustainable marketing systems. His educational approach strongly aligns with founder-led marketing and LinkedIn Organic Content Strategy for B2B SaaS.
+
+- **LinkedIn:** https://www.linkedin.com/in/kylepoyar/
+- **Newsletter:** https://www.growthunhinged.com
+- **ChartMogul:** https://chartmogul.com
+- **YouTube:** https://www.youtube.com/results?search_query=Kyle+Poyar
