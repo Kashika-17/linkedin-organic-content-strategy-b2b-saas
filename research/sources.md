@@ -1,0 +1,1 @@
+| Dave Gerhardt | Founder, Exit Five | LinkedIn, YouTube, Podcast, Newsletter | Former VP Marketing at Drift and CMO at Privy. Shares practitioner-led insights on LinkedIn content strategy, brand marketing, community building, demand generation, and creator-led growth for B2B SaaS companies. | 03 July 2026 |
