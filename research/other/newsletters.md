@@ -2176,4 +2176,193 @@ Overall, this newsletter strengthens Kieran's central philosophy that the future
 
 ✅ Newsletter Research Completed
 
+# Ross Simmonds
 
+# Newsletter 1 — Visibility In LLMs: How Distribution Opens The Gates To LLM Citations
+
+**Author:** Ross Simmonds
+
+**Published:** March 27, 2026
+
+**Source:** Foundation Marketing
+
+**Theme:**
+AI Visibility | Content Distribution | LLM SEO | Organic B2B Growth
+
+---
+
+## Executive Summary
+
+Ross explains that AI visibility is not a brand-new marketing discipline—it is the natural evolution of SEO, content marketing, and distribution.
+
+Companies being cited today by ChatGPT, Gemini, Perplexity, and Google AI Overviews are largely benefiting from years of consistent investment in educational content, community participation, YouTube, Reddit, review platforms, digital PR, and SEO.
+
+Rather than trying to "optimize for AI," Ross argues that organizations should focus on becoming trusted authorities across the platforms AI systems already rely upon.
+
+The newsletter introduces a complete distribution stack for increasing AI citations through multi-platform authority rather than isolated SEO tactics. :contentReference[oaicite:0]{index=0}
+
+---
+
+## Key Learnings
+
+### 1. AI visibility is built long before AI arrives
+
+Ross explains that brands dominating AI citations today invested in SEO, educational content, digital PR, and community participation years before LLMs became mainstream.
+
+AI systems reward historical authority rather than short-term optimization.
+
+---
+
+### 2. Distribution determines AI citations
+
+Large Language Models rarely rely solely on company websites.
+
+Instead, they evaluate distributed authority across:
+
+- Reddit
+- YouTube
+- LinkedIn
+- Review platforms
+- Industry publications
+- Guest articles
+- Community discussions
+
+Distribution expands the number of trusted signals available to AI systems.
+
+---
+
+### 3. Reddit has become a major authority signal
+
+Ross highlights research showing Reddit as one of the most-cited sources across major LLMs.
+
+Authentic participation within niche communities generates stronger authority than promotional content.
+
+Brands should contribute valuable expertise instead of advertising.
+
+---
+
+### 4. Educational YouTube content outperforms product demos
+
+Most B2B companies publish product demonstrations.
+
+Ross argues AI systems prefer educational videos explaining customer problems because they contain broader contextual knowledge.
+
+Educational content generates higher search visibility, more citations, and longer-term discoverability.
+
+---
+
+### 5. Authority extends beyond owned media
+
+Review sites, guest articles, podcast appearances, digital PR, and industry mentions all strengthen EEAT signals.
+
+Organizations should intentionally build credibility across multiple trusted platforms instead of relying only on their own websites.
+
+---
+
+## Why This Newsletter Matters
+
+This newsletter represents one of Ross Simmonds' strongest explanations of AI Visibility.
+
+Rather than presenting GEO as a replacement for SEO, Ross demonstrates that AI discoverability results from years of consistent authority building, educational marketing, and strategic distribution.
+
+It provides a practical framework for B2B companies seeking long-term visibility across traditional search engines and modern AI assistants.
+
+---
+
+## Repository Theme
+
+AI Visibility | Organic Growth | Content Distribution | Authority Marketing | LLM SEO
+
+# Newsletter 2 — Should You Bet Your Sales Pipeline on… Distribution?
+
+**Author:** Ross Simmonds
+
+**Published:** June 11, 2026
+
+**Source:** Foundation Marketing
+
+**Theme:**
+Content Distribution | Organic Pipeline Generation | B2B Demand Generation | Multi-channel Marketing
+
+---
+
+## Executive Summary
+
+Ross argues that distribution—not content creation—is becoming the primary competitive advantage for modern B2B organizations.
+
+Most companies invest heavily in producing blogs, landing pages, webinars, and guides, yet expect buyers to discover those assets organically through their websites alone. Ross challenges this approach by explaining that buyers increasingly consume information across LinkedIn, YouTube, newsletters, podcasts, communities, and AI-powered search experiences.
+
+Rather than treating distribution as an afterthought, organizations should build distribution directly into their content strategy from the beginning. Companies that consistently deliver valuable content wherever buyers already spend their time generate stronger brand awareness, higher trust, and ultimately more qualified sales conversations.
+
+---
+
+## Key Learnings
+
+### 1. Distribution is more valuable than creation
+
+Creating high-quality content is no longer the hardest part of marketing.
+
+The true competitive advantage comes from ensuring that content reaches the right audience across multiple platforms.
+
+---
+
+### 2. Build for buyer behavior, not website traffic
+
+Modern buyers rarely visit company websites directly.
+
+Instead, they consume educational content through:
+
+- LinkedIn
+- YouTube
+- Podcasts
+- Industry newsletters
+- Slack communities
+- AI search platforms
+
+Successful distribution aligns with existing customer behavior.
+
+---
+
+### 3. Speed creates competitive advantage
+
+Ross identifies speed as one of the two most important distribution variables.
+
+Organizations capable of quickly publishing and distributing insights around emerging trends consistently outperform slower competitors.
+
+Reducing internal friction increases marketing effectiveness.
+
+---
+
+### 4. Reach compounds long-term pipeline growth
+
+Distribution is not measured by follower counts.
+
+Instead, marketers should maximize presence within the communities, channels, and conversations where purchasing decisions naturally occur.
+
+Owned audiences—including newsletters, YouTube subscribers, podcasts, and communities—create long-term business resilience.
+
+---
+
+### 5. Distribution directly influences revenue
+
+Ross explains that qualified pipeline develops when prospects repeatedly encounter educational content before entering a buying cycle.
+
+Consistent distribution builds familiarity and trust, reducing sales friction and increasing the quality of future customer conversations.
+
+---
+
+## Why This Newsletter Matters
+
+This newsletter captures Ross Simmonds' central philosophy that content alone is no longer enough.
+
+Organizations that systematically distribute educational content across multiple channels create stronger brand authority, greater market visibility, and more sustainable organic demand generation than businesses relying solely on owned media.
+
+The article reinforces the shift from "publish and hope" toward distribution-first marketing systems designed for both human audiences and AI-driven discovery.
+
+---
+
+## Repository Theme
+
+Content Distribution | Organic Demand Generation | B2B Pipeline Growth | Multi-channel Marketing | Brand Authority
+
+✅ Newsletter Research Completed

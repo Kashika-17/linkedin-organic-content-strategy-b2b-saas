@@ -2066,3 +2066,197 @@ Overall, this podcast captures Kieran's vision of the future marketing organizat
 **Status**
 
 ✅ Podcast Research Completed
+
+# Ross Simmonds
+
+# Podcast 1 — Reddit, AI Search & The Future of Content Distribution
+
+**Guest:** Ross Simmonds
+
+**Host:** Jon Clark (Page 2 Podcast)
+
+**Theme:**
+Content Distribution | Reddit Marketing | AI Search | Organic B2B Growth | LLM Visibility
+
+---
+
+## Executive Summary
+
+Ross explains why content distribution—not content creation—is becoming the defining competitive advantage in modern B2B marketing.
+
+The discussion explores how Reddit has evolved into one of the most influential sources for AI search engines and buying decisions, why traditional SEO is shifting toward multi-platform optimization, and how marketers should rethink search visibility in the era of ChatGPT, Perplexity, Gemini, and Google AI Overviews.
+
+Rather than publishing more content, Ross argues that winning organizations build repeatable distribution systems across Reddit, YouTube, search engines, communities, and AI ecosystems. AI accelerates execution, but strategic thinking, audience understanding, and authentic engagement remain the real differentiators.
+
+---
+
+## Key Learnings
+
+### 1. AI should accelerate execution—not replace strategy
+
+Ross explains how AI can automate research, idea capture, transcription, workflow automation, and content production.
+
+However, marketers remain responsible for strategic direction, editorial judgment, and quality control.
+
+Organizations should expect measurable productivity improvements rather than simply adding AI into existing workflows.
+
+---
+
+### 2. Reddit has become a major bottom-of-funnel acquisition channel
+
+Long-tail buying queries increasingly surface Reddit discussions because users trust authentic conversations over promotional content.
+
+LLMs amplify this trend by generating increasingly specific purchase-related searches.
+
+Brands should actively participate where these discussions already exist.
+
+---
+
+### 3. Search has become contextual
+
+Unlike traditional keyword searches, AI assistants remember previous conversations, industry context, company size, and buyer preferences.
+
+This creates highly personalized discovery journeys that reward brands with broad digital authority across multiple platforms.
+
+---
+
+### 4. Every brand needs a Reddit strategy
+
+Ross recommends three complementary assets:
+
+- Brand subreddit
+- Official brand account
+- Human employee account
+
+Each serves a different role in reputation management, customer engagement, and community participation while building authentic trust signals.
+
+---
+
+### 5. Distribution has become the new SEO
+
+Modern search extends beyond Google.
+
+Organizations must optimize content across:
+
+- Reddit
+- YouTube
+- LinkedIn
+- AI Search
+- Communities
+- Traditional Search
+
+Distribution is no longer a marketing enhancement—it has become a core growth function.
+
+---
+
+## Why This Podcast Matters
+
+This conversation clearly illustrates Ross Simmonds' philosophy that modern B2B marketing success depends on distribution ecosystems rather than isolated content creation.
+
+The episode connects Reddit, AI search, LLM citations, SEO, and organic demand generation into one integrated marketing framework, making it highly valuable for organizations building AI-ready content strategies.
+
+---
+
+## Repository Theme
+
+Content Distribution | Reddit Strategy | AI Visibility | Organic B2B Growth | Modern SEO
+
+
+# Podcast 2 — Why 44.8% of B2B Thought Leadership Fails to Earn Backlinks
+
+**Host:** Ross Simmonds
+
+**Podcast:** The Ross Simmonds Show
+
+**Theme:**
+Thought Leadership | Content Strategy | Link Building | Organic Growth | Authority Marketing
+
+---
+
+## Executive Summary
+
+Ross analyzes findings from Foundation's B2B Backlink Intelligence Report to explain why nearly half of B2B thought leadership content fails to generate meaningful backlinks.
+
+Using research across more than 12,000 pages from leading B2B companies, Ross demonstrates that most organizations overinvest in executive opinion while underinvesting in content formats that consistently generate authority, citations, backlinks, and long-term organic growth.
+
+Rather than relying on assumptions or vanity metrics, the episode encourages marketers to evaluate content as an investment portfolio by measuring measurable business outcomes, search authority, and long-term compounding returns.
+
+---
+
+## Key Learnings
+
+### 1. Most thought leadership fails to generate authority
+
+Although thought leadership represents a significant share of B2B publishing, it consistently underperforms in backlink acquisition.
+
+Ross argues that marketers often confuse engagement metrics with actual authority signals.
+
+---
+
+### 2. Data should guide content investment
+
+The Backlink Intelligence Report analyzed:
+
+- 12,154 pages
+- 24 B2B brands
+- 11 industries
+
+Instead of relying on opinions, Ross demonstrates how empirical research identifies which content formats produce sustainable organic growth.
+
+---
+
+### 3. Authority requires evidence—not opinions
+
+Executive perspectives alone rarely generate citations.
+
+Unique research, proprietary datasets, industry statistics, and educational frameworks consistently outperform opinion-based content.
+
+Authority grows when brands contribute original knowledge to their market.
+
+---
+
+### 4. Three content formats consistently outperform
+
+Ross identifies three high-performing assets:
+
+- Statistics pages
+- Glossary and definition pages
+- Product-independent educational how-to guides
+
+These formats attract backlinks because they solve recurring information needs across the industry.
+
+---
+
+### 5. Backlinks remain critical in the AI era
+
+Despite AI-powered search experiences, backlinks continue to strengthen authority signals used by Google, AI search engines, and Large Language Models.
+
+Every quality backlink increases future discoverability across both traditional search and AI-generated answers.
+
+---
+
+### 6. Treat content like an investment portfolio
+
+Ross encourages marketers to allocate resources based on measurable returns rather than popularity.
+
+Organizations should regularly audit content performance and shift investment toward formats producing compounding authority over time.
+
+---
+
+## Why This Podcast Matters
+
+This episode reinforces Ross Simmonds' research-driven approach to organic B2B growth.
+
+Instead of publishing more thought leadership, Ross demonstrates how marketers can create durable content assets that continuously generate backlinks, authority, AI citations, and long-term search visibility.
+
+It provides one of the strongest evidence-based frameworks for building sustainable organic growth through educational content and strategic content distribution.
+
+---
+
+## Repository Theme
+
+Thought Leadership | Backlink Strategy | Authority Marketing | Organic SEO | AI Search Visibility
+```
+**Status**
+
+✅ Podcast Research Completed
