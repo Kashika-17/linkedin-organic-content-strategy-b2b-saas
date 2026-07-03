@@ -25,3 +25,20 @@ Devin Reed is one of the most respected practitioner voices in B2B content marke
 - **Newsletter:** https://www.thereeder.co/newsletter
 - **YouTube:** https://www.youtube.com/@RealDevinReed
 - **Podcast:** Reed Between the Lines
+
+
+---
+
+## Emily Kramer
+
+| **Role** | Founder, MKT1; Former Marketing Executive at Asana, Carta, Astro and Ticketfly |
+| **Platforms** | LinkedIn, YouTube, Newsletter |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Emily Kramer is one of the most respected B2B SaaS marketing strategists and practitioners. Through MKT1, she publishes original research, marketing frameworks, AI-enabled workflows, and GTM strategy rather than opinion-based content. Her work consistently demonstrates how research-backed thought leadership, founder expertise, and repeatable marketing systems create long-term authority on LinkedIn. Unlike creators focused on engagement tactics, Emily emphasizes positioning, messaging, data-driven decision making, and educational content that directly supports sustainable LinkedIn organic growth.
+- **LinkedIn:** https://www.linkedin.com/in/emilykramer/
+- **Website:** https://www.mkt1.co
+- **Newsletter:** https://newsletter.mkt1.co
+- **YouTube:** https://www.youtube.com/@MKT1
