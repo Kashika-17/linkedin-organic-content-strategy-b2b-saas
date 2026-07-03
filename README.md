@@ -58,6 +58,10 @@ research/
 
 ---
 
+## Expert Selection Criteria
+
+Experts were selected because they actively practice LinkedIn Organic Marketing for B2B SaaS through content creation, company building, podcasts, newsletters and real-world execution rather than teaching theory alone.
+
 ## Author
 
 **Kashika Aggarwal**
