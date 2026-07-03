@@ -1944,3 +1944,125 @@ The conversation complements Kait's LinkedIn content around customer relationshi
 **Status**
 
 ✅ Podcast Research Completed
+
+# kieran Flanagan
+
+# Podcast 1
+
+## Title
+
+**How Top 1% Marketers Are Shifting Their Strategy in Q3 2026**
+
+**Platform:** Marketing Against The Grain (HubSpot Podcast)
+
+**Theme:** AI-Native Marketing | Loop Marketing | Marketing Transformation | B2B Growth Strategy
+
+---
+
+## Executive Summary
+
+In this episode, Kieran Flanagan and Kipp Bodnar explain why artificial intelligence is fundamentally changing every aspect of modern marketing. Rather than treating AI as another productivity tool, they argue that marketing organizations must completely redesign how they operate around outcomes, experimentation, and continuous learning.
+
+The discussion introduces the concept of **Loop Marketing**, a new operating model where marketing no longer depends on isolated campaigns or traditional funnels. Instead, companies create self-reinforcing systems powered by owned audiences, AI workflows, customer intelligence, and rapid experimentation.
+
+Throughout the conversation, Kieran emphasizes that AI has shifted competitive advantage away from execution and toward creativity, judgment, proprietary intelligence, and organizational learning. Teams that continuously capture knowledge, automate repetitive work, and optimize around measurable business outcomes will significantly outperform organizations still following traditional marketing playbooks.
+
+---
+
+## Key Insights
+
+### 1. Marketing is being rewritten by AI
+
+Kieran explains that AI has disrupted marketing more rapidly than almost any other business function.
+
+Traditional campaign planning, content production, and workflow management are being replaced by AI-assisted execution, allowing marketers to focus on higher-value strategic work.
+
+---
+
+### 2. Loop Marketing replaces traditional funnels
+
+Rather than viewing marketing as a linear acquisition process, Loop Marketing creates self-reinforcing growth systems.
+
+Successful companies continuously:
+
+- Learn from customers
+- Improve products
+- Build owned audiences
+- Generate trust
+- Create repeatable growth loops
+
+Growth becomes continuous rather than campaign-driven.
+
+---
+
+### 3. Outcomes matter more than activities
+
+Marketing teams should stop measuring success by output volume.
+
+Instead of tracking:
+
+- number of campaigns
+- content published
+- emails sent
+
+organizations should optimize for measurable business outcomes including:
+
+- revenue
+- customer growth
+- retention
+- customer value
+- market learning
+
+---
+
+### 4. AI should automate execution, not creativity
+
+AI performs repetitive operational work exceptionally well.
+
+Human marketers remain responsible for:
+
+- positioning
+- messaging
+- storytelling
+- strategic thinking
+- creative judgment
+- customer empathy
+
+The future marketer combines AI efficiency with human creativity.
+
+---
+
+### 5. Continuous learning becomes the competitive advantage
+
+The highest-performing organizations build systems that capture lessons from every experiment.
+
+Rather than relying on individual experience, marketing intelligence becomes a reusable organizational asset that improves future execution through AI-powered workflows.
+
+---
+
+## Why This Podcast Matters
+
+This episode serves as one of the clearest explanations of Kieran Flanagan's modern marketing philosophy.
+
+It introduces the foundational concepts that appear repeatedly throughout his LinkedIn posts, newsletters, keynote presentations, and AI frameworks—including Loop Marketing, owned media, AI-native workflows, marketing intelligence, and outcome-driven execution.
+
+The discussion provides a comprehensive blueprint for how B2B SaaS marketing organizations should evolve as artificial intelligence reshapes customer acquisition, content creation, and organizational design.
+
+---
+
+## Personal Research Notes
+
+Several recurring themes from Kieran's research are reinforced throughout this episode:
+
+- AI fundamentally changes marketing operations.
+- Owned audiences outperform rented attention.
+- Marketing intelligence compounds over time.
+- Continuous experimentation replaces static planning.
+- Organizational learning becomes a strategic advantage.
+- AI enhances execution while humans own judgment and creativity.
+
+Overall, this podcast captures Kieran's vision of the future marketing organization—one built around AI-native systems, rapid learning, owned distribution, and continuous optimization rather than traditional campaign execution.
+
+**Status**
+
+✅ Podcast Research Completed

@@ -107,3 +107,19 @@ Kait Stephens is a leading expert in omnichannel commerce, first-party data stra
 - **Company Website:** https://www.brij.it
 - **YouTube:** https://www.youtube.com/@Brij
 - **Podcast (The Omnichannel Marketer):** https://www.theomnichannelmarketer.com
+
+# Kieran Flanagan
+
+| **Role** | SVP, Marketing (AI & GTM), HubSpot; Former CMO at Zapier; Former VP Marketing at HubSpot |
+| **Platforms** | LinkedIn, Marketing Against The Grain Podcast, Newsletter, YouTube |
+| **Date Collected** | 03 July 2026 |
+
+### Why Selected
+
+Kieran Flanagan is one of the world's leading B2B marketing strategists specializing in AI-native marketing, Go-to-Market transformation, owned media, marketing intelligence systems, prompt engineering, and modern growth strategy. His content consistently combines first-principles thinking with practical frameworks developed through operating leadership at HubSpot and Zapier. Rather than focusing on tactical marketing hacks, Kieran explains how artificial intelligence is fundamentally reshaping marketing organizations, content creation, distribution, team structures, and competitive advantage. His work provides valuable insights into modern organic B2B marketing strategy, making him highly relevant for this research project.
+
+- **LinkedIn:** https://www.linkedin.com/in/kieranflanagan/
+- **Website / Newsletter:** https://www.kieranflanagan.io/
+- **YouTube (Marketing Against The Grain / Interviews):** https://www.youtube.com/@marketingagainstthegrain
+- **Podcast (Marketing Against The Grain):** https://hubspot.com/podcasts/marketing-against-the-grain
+- **HubSpot:** https://www.hubspot.com/
