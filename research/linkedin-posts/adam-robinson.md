@@ -93,6 +93,8 @@ This philosophy is reflected consistently across his LinkedIn posts, YouTube dis
 
 # LinkedIn Analysis
 
+## Date Collect- 02 July 2026
+
 ## LinkedIn Post 1
 
 # FOUNDERS/SALESPEOPLE: THIS IS NOT HOW TO GROW YOUR BUSINESS
@@ -201,6 +203,8 @@ This transforms an isolated incident into evergreen educational content.
 
 ## LinkedIn Post 2
 
+## Date Collect- 02 July 2026
+
 # Claude Did WHAT?!
 
 ## Context
@@ -308,6 +312,8 @@ This reflects a compound-growth mindset rather than a campaign-based marketing a
 ---
 
 ## LinkedIn Post 3
+
+## Date Collect- 02 July 2026
 
 # I’ve Bootstrapped $0–1M ARR Three Times – Here's My 5-Step Growth Playbook
 
