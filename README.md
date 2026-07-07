@@ -2,7 +2,7 @@
 
 ## Research Project Overview
 
-This repository contains a structured research project focused on **LinkedIn Organic Content Strategy for B2B SaaS**.
+This repository contains a structured git statusproject focused on **LinkedIn Organic Content Strategy for B2B SaaS**.
 
 The objective of this project is to identify experienced practitioners who actively execute LinkedIn content strategies for B2B SaaS companies, collect their educational content from multiple platforms, organize the research into a structured knowledge base, and build a foundation for future playbooks and marketing frameworks.
 
