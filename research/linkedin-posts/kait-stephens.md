@@ -31,19 +31,14 @@
 
 # Why Kait Stephens was Selected
 
-Kait Stephens is one of the leading voices connecting modern marketing, retail commerce, and first-party customer data. Unlike creators who focus primarily on content marketing or social media tactics, Kait explains how sustainable growth comes from owning customer relationships rather than renting attention through advertising platforms.
-
-Her content combines founder experience, retail technology, AI adoption, and customer data strategy to demonstrate how brands can build durable competitive advantages through customer ownership, operational speed, and better marketing infrastructure.
-
-Kait's work is particularly valuable for understanding how first-party data, AI-powered workflows, omnichannel customer journeys, and founder-led thought leadership contribute to long-term organic B2B growth.
-
+Kait Stephens has built one of the strongest founder-led LinkedIn brands in B2B commerce. Rather than relying on paid promotion, she consistently publishes educational content around first-party data, omnichannel retail, AI adoption, and customer acquisition. Her LinkedIn content directly supports pipeline generation for Brij while establishing her personal authority as a founder. She combines operator experience with practical frameworks, making her an excellent practitioner to study for LinkedIn organic content strategy within B2B SaaS.
 ---
 
 # Research Sources
 
 ## LinkedIn
 
-https://www.linkedin.com/in/kaitstephens/
+https://www.linkedin.com/in/kait-margraf-stephens
 
 Primary source for:
 

@@ -31,13 +31,7 @@
 
 # Why Kieran Flanagan was Selected
 
-Kieran Flanagan is one of the most influential voices in modern B2B marketing and AI-enabled growth. Unlike marketers who primarily focus on tactical LinkedIn advice, Kieran consistently explores how AI is fundamentally reshaping marketing organizations, content distribution, GTM execution, and owned media.
-
-His content combines executive marketing experience, AI experimentation, first-principles thinking, and practical frameworks to help marketing leaders adapt to rapidly changing buyer behavior.
-
-Rather than teaching platform-specific growth hacks, Kieran demonstrates how long-term authority is created through owned audiences, educational content, AI workflows, strategic positioning, and continuous experimentation.
-
-His work is particularly valuable for understanding how AI changes organic B2B marketing while reinforcing the importance of original thinking, creator-led distribution, and owned media.
+Kieran Flanagan is one of the leading voices in AI-native B2B marketing and modern go-to-market strategy. Through LinkedIn, Marketing Against the Grain, newsletters, and conference presentations, he shares practical frameworks on AI workflows, creator-led distribution, owned audiences, experimentation, and Loop Marketing. His content combines first-principles thinking with hands-on operator experience, making him highly relevant for understanding how modern marketers build authority through LinkedIn organic content.
 
 ---
 
@@ -525,7 +519,7 @@ These recurring principles provide a strong foundation for understanding how AI-
 - LinkedIn Posts Reviewed: 6
 - LinkedIn Posts Selected: 3
 - YouTube Videos Reviewed: 2
-- YouTube Videos Selected: 2
+- YouTube Videos Selected: 1
 - Newsletter Articles Reviewed: Multiple Substack Essays
 - Primary Research Theme: AI Marketing, Owned Media, Marketing Intelligence, Organic Growth Systems
 

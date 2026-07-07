@@ -883,10 +883,10 @@ These recurring principles provide a strong foundation for understanding how res
 
 - LinkedIn Posts Reviewed: 6
 - LinkedIn Posts Selected: 3
-- YouTube Videos Reviewed: 2
-- YouTube Videos Selected: 2
+- - YouTube Videos Reviewed: Conference presentations and guest interviews
+- YouTube Videos Selected: None
 - Newsletter Articles Reviewed: Multiple editions of Growth Unhinged
-- Primary Research Theme: Research-Driven Thought Leadership, Pricing Strategy, SaaS Growth, GTM Systems
+- Primary Research Theme: Research-Driven Thought Leadership, Pricing Strategy, SaaS Growth
 
 ### Key Research Areas
 

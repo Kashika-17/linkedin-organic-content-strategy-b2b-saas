@@ -25,7 +25,7 @@ For this research project, Adam was selected because his work directly supports 
 - Founder, Retention.com (formerly GetEmails)
 
 **LinkedIn**
-https://www.linkedin.com/in/retentionadam/
+https://www.linkedin.com/in/retentionadam
 
 **Companies**
 

@@ -73,7 +73,7 @@ Kyle Poyar is one of the leading B2B SaaS growth strategists specializing in pro
 - **LinkedIn:** https://www.linkedin.com/in/kylepoyar/
 - **Newsletter:** https://www.growthunhinged.com
 - **ChartMogul:** https://chartmogul.com
-- **YouTube:** https://www.youtube.com/results?search_query=Kyle+Poyar
+- **YouTube:** - **Long-form Content:** Conference presentations, webinar recordings, guest podcast appearances, and Growth Unhinged newsletter
 
 
 # Elena Verna
@@ -101,7 +101,7 @@ Elena Verna is one of the world's leading B2B SaaS growth experts specializing i
 
 ### Why Selected
 
-Kait Stephens is a leading expert in omnichannel commerce, first-party data strategy, AI-enabled customer engagement, and retail marketing. As the Founder and CEO of Brij, she consistently shares practical frameworks on transforming anonymous retail buyers into owned customer relationships through first-party data, omnichannel experiences, and AI-powered workflows. Rather than focusing on traditional demand generation or paid acquisition, Kait emphasizes customer ownership, omnichannel growth, AI adoption, and educational thought leadership. Her work provides valuable insights into modern organic B2B marketing, founder-led content strategy, customer data infrastructure, and AI-driven commerce, making her highly relevant for this research project.
+Kait Stephens has built one of the strongest founder-led LinkedIn brands in B2B commerce. Rather than relying on paid promotion, she consistently publishes educational content around first-party data, omnichannel retail, AI adoption, and customer acquisition. Her LinkedIn content directly supports pipeline generation for Brij while establishing her personal authority as a founder. She combines operator experience with practical frameworks, making her an excellent practitioner to study for LinkedIn organic content strategy within B2B SaaS.
 
 - **LinkedIn:** https://www.linkedin.com/in/kait-margraf-stephens/
 - **Company Website:** https://www.brij.it
@@ -116,7 +116,7 @@ Kait Stephens is a leading expert in omnichannel commerce, first-party data stra
 
 ### Why Selected
 
-Kieran Flanagan is one of the world's leading B2B marketing strategists specializing in AI-native marketing, Go-to-Market transformation, owned media, marketing intelligence systems, prompt engineering, and modern growth strategy. His content consistently combines first-principles thinking with practical frameworks developed through operating leadership at HubSpot and Zapier. Rather than focusing on tactical marketing hacks, Kieran explains how artificial intelligence is fundamentally reshaping marketing organizations, content creation, distribution, team structures, and competitive advantage. His work provides valuable insights into modern organic B2B marketing strategy, making him highly relevant for this research project.
+Kieran Flanagan is one of the leading voices in AI-native B2B marketing and modern go-to-market strategy. Through LinkedIn, Marketing Against the Grain, newsletters, and conference presentations, he shares practical frameworks on AI workflows, creator-led distribution, owned audiences, experimentation, and Loop Marketing. His content combines first-principles thinking with hands-on operator experience, making him highly relevant for understanding how modern marketers build authority through LinkedIn organic content.
 
 - **LinkedIn:** https://www.linkedin.com/in/kieranflanagan/
 - **Website / Newsletter:** https://www.kieranflanagan.io/

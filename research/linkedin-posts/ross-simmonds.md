@@ -462,42 +462,6 @@ These recurring principles provide a comprehensive framework for building modern
 
 **Research Topic:** LinkedIn Organic Content Strategy, AI Visibility & Content Distribution for B2B SaaS
 
-### Materials Reviewed
-
-- LinkedIn Posts Reviewed: 5
-- LinkedIn Posts Selected: 3
-- YouTube Videos Reviewed: 2
-- YouTube Videos Selected: 2
-- Newsletter Articles Reviewed: Multiple Foundation Marketing publications
-- Primary Research Theme: Organic Growth, AI Visibility, Content Distribution & Authority Marketing
-
-### Key Research Areas
-
-- Organic B2B Marketing
-- AI Visibility (LLM SEO / GEO)
-- Content Distribution
-- YouTube Marketing
-- EEAT
-- Content Repurposing
-- Brand Authority
-- Educational Marketing
-- Search Intent Optimization
-
-### Primary Platforms
-
-- LinkedIn
-- Foundation Marketing
-- YouTube
-- Podcasts
-- Conference Keynotes
-- Create Once, Distribute Forever
-
-### Research Status
-
-✅ LinkedIn Research Completed
-
----
-
 # Recurring Themes
 
 Throughout Ross Simmonds' content, several strategic themes consistently emerge:
@@ -649,3 +613,38 @@ The following principles can be directly applied when building an organic B2B ma
 - Strengthen EEAT signals through expert-led content.
 - View every content asset as a long-term growth investment rather than a one-time campaign.
 ```
+### Materials Reviewed
+
+- LinkedIn Posts Reviewed: 5
+- LinkedIn Posts Selected: 3
+- YouTube Videos Reviewed: 2
+- YouTube Videos Selected: 1
+- Newsletter Articles Reviewed: Multiple Foundation Marketing publications
+- Primary Research Theme: Organic Growth, AI Visibility, Content Distribution & Authority Marketing
+
+### Key Research Areas
+
+- Organic B2B Marketing
+- AI Visibility (LLM SEO / GEO)
+- Content Distribution
+- YouTube Marketing
+- EEAT
+- Content Repurposing
+- Brand Authority
+- Educational Marketing
+- Search Intent Optimization
+
+### Primary Platforms
+
+- LinkedIn
+- Foundation Marketing
+- YouTube
+- Podcasts
+- Conference Keynotes
+- Create Once, Distribute Forever
+
+### Research Status
+
+✅ LinkedIn Research Completed
+
+---
