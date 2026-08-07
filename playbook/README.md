@@ -1,185 +1,196 @@
-# Research-Based LinkedIn Organic Content Playbook for B2B SaaS
+# LinkedIn Organic Content Strategy for B2B SaaS
+### Research Repository & Operating Playbook
 
-> **Version:** 1.0  
-> **Author:** Kashika Aggarwal  
-> **Repository:** LinkedIn Organic Content Strategy for B2B SaaS  
-> **Purpose:** Transform research into an actionable Standard Operating Procedure (SOP)
-
----
-
-# Executive Summary
-
-## Purpose
-
-This playbook transforms the research collected in this repository into a practical Standard Operating Procedure (SOP) for building a repeatable LinkedIn Organic Content Strategy for B2B SaaS companies.
-
-The recommendations are based on extensive analysis of ten experienced B2B SaaS practitioners across LinkedIn posts, YouTube interviews, podcasts, newsletters, company resources, and publicly available educational content.
-
-Instead of copying one expert's methodology, this playbook synthesizes recurring principles, evaluates conflicting viewpoints, identifies practical trade-offs, and proposes an implementation framework designed for consistent execution.
-
-The objective is not simply to publish more LinkedIn content.
-
-The objective is to build long-term authority, educate the right audience, strengthen brand reputation, generate qualified conversations, and create a sustainable inbound growth engine.
+> **Assignment Submission**
+>
+> This repository documents my research process, decision-making framework and the final operating model I developed after analysing practitioner content across modern B2B SaaS marketing.
+>
+> Rather than collecting "best practices", I compared expert perspectives, evaluated conflicting recommendations and documented the reasoning behind every major decision included in this repository.
 
 ---
 
-# Scope
+# Repository Objective
 
-This playbook is designed for:
+The objective of this project was not simply to summarise marketing advice.
 
-- B2B SaaS Founders
-- Marketing Leaders
-- Product Marketing Teams
-- Growth Teams
-- Content Marketers
-- Founder-Led Organizations
-- Early-Stage SaaS Companies
+It was to answer a more difficult question:
 
-The playbook focuses specifically on **organic LinkedIn growth**.
+> **How can practitioner research be transformed into a coherent, evidence-informed operating model for LinkedIn Organic Content in B2B SaaS?**
 
-Paid advertising, outbound sales, and account-based marketing are outside the scope of this document.
+To answer that question, I reviewed practitioner newsletters, LinkedIn posts, podcasts, interviews and long-form educational content before comparing recurring patterns, identifying areas of disagreement and documenting the decisions I ultimately made.
+
+The result is not a collection of isolated recommendations.
+
+It is an operating model supported by transparent reasoning and traceable evidence.
 
 ---
 
-# Research Foundation
+# Research Philosophy
 
-This playbook is built using research collected from ten experienced B2B SaaS practitioners.
+Throughout this repository, I deliberately separated three different stages of reasoning.
 
-## Experts Included
+## 1. Evidence
 
-1. Adam Robinson
-2. Dave Gerhardt
-3. Devin Reed
-4. Elena Verna
-5. Emily Kramer
-6. Kait Stephens
-7. Kieran Flanagan
-8. Kyle Poyar
-9. Ross Simmonds
-10. Udi Ledergor
+Recommendations collected directly from practitioner research.
+
+## 2. Interpretation
+
+My analysis of recurring patterns, disagreements and underlying assumptions.
+
+## 3. Decision
+
+The operating principles, execution framework and recommendations I chose to include.
+
+Maintaining this distinction allowed me to separate practitioner expertise from my own judgement while making the decision-making process transparent.
 
 ---
 
-## Sources Reviewed
+# Research Scope
 
-The recommendations throughout this playbook are supported by research collected from multiple content formats.
+This repository focuses specifically on practitioner knowledge within modern B2B SaaS marketing.
 
-These include:
+The research draws primarily from:
 
-- LinkedIn Posts
-- YouTube Interviews
-- Podcasts
 - Newsletters
-- Company Blogs
-- Public Educational Resources
+- LinkedIn Posts
+- Podcasts
+- Interviews
+- YouTube Discussions
+- Long-form Educational Content
 
-Every recommendation references one or more experts whose research supports the conclusion.
+published by the following practitioners:
+
+- Dave Gerhardt
+- Emily Kramer
+- Ross Simmonds
+- Kieran Flanagan
+- Elena Verna
+- Adam Robinson
+- Udi Ledergor
+- Devin Reed
+- Kyle Poyar
+- Kait Stephens
+
+Rather than relying on secondary summaries, I prioritised original practitioner material wherever possible.
+
+---
+
+# Repository Structure
+
+| Document | Purpose |
+|----------|---------|
+| **01 – Research Methodology & Decision Framework** | Explains how evidence was collected, evaluated and transformed into recommendations. |
+| **02 – Core Operating Principles** | Defines the strategic principles that guide the operating model. |
+| **03 – LinkedIn Organic Content Operating System** | Describes the overall strategic framework for LinkedIn Organic Content. |
+| **04 – Execution Playbook / SOP** | Documents the operational workflow for planning, creating, reviewing and measuring content. |
+| **05 – Areas of Practitioner Agreement & Disagreement** | Compares differing viewpoints across practitioners and explains how disagreements were evaluated. |
+| **06 – Measurement Framework & KPIs** | Defines success metrics and measurement principles for the operating model. |
+| **07 – Implementation Roadmap** | Outlines how the operating model can be implemented in practice. |
+| **08 – Limitations, Untested Assumptions & Conditions for Revision** | Documents uncertainty, limitations and where future evidence may change current conclusions. |
+| **09 – Evaluating Expert Advice & Transferability** | Evaluates how practitioner recommendations transfer into this operating model rather than ranking expertise. |
+| **10 – Research References** | Provides complete references for all practitioner material reviewed throughout the project. |
+| **decision-log.md** | Records the major research and design decisions that shaped the repository. |
 
 ---
 
 # Research Methodology
 
-The research process followed five structured phases.
+Rather than accepting recommendations at face value, I evaluated practitioner content using a consistent framework.
 
-## Phase 1 — Expert Selection
+For each recommendation, I asked:
 
-Experts were selected using the following criteria:
+- What problem is this recommendation attempting to solve?
+- What assumptions does it depend on?
+- Does similar guidance appear across multiple independent practitioners?
+- Under what conditions would this recommendation remain transferable?
+- Does the available evidence justify including it in the operating model?
 
-- Active B2B SaaS practitioners
-- Demonstrated execution experience
-- Consistent educational content
-- Strong reputation within SaaS marketing
-- Evidence-backed recommendations
-- Founder, operator, or executive experience
+Recommendations were then categorised as:
 
-The objective was to prioritize experienced practitioners over general influencers.
+- Adopt
+- Adapt
+- Reject
+- Defer pending additional evidence
 
----
-
-## Phase 2 — Multi-Platform Research
-
-Each expert was researched across multiple platforms.
-
-Research included:
-
-- LinkedIn content
-- YouTube interviews
-- Podcast appearances
-- Newsletters
-- Company websites
-
-This reduced dependence on any single source and improved confidence in recurring recommendations.
+This methodology is documented in detail in **Document 01** and applied consistently throughout the repository.
 
 ---
 
-## Phase 3 — Pattern Identification
+# Citation Standard
 
-Instead of collecting isolated tips, recurring themes were extracted across experts.
+Every significant recommendation included in this repository is supported by practitioner evidence.
 
-Examples include:
+Where applicable, citations include:
 
-- Founder branding
-- Educational content
-- Original research
-- Storytelling
-- Community building
-- AI-assisted workflows
-- Trust-based marketing
-- Product-led growth
+- Author
+- Title
+- Publication Date
+- Source URL
 
-Only ideas supported by repeated evidence were considered foundational principles.
+The complete bibliography is available in **Document 10 – Research References**.
 
 ---
 
-## Phase 4 — Cross-Expert Comparison
+# What Changed During This Project
 
-Recommendations were compared to identify:
+When I began this project, I expected the outcome to be a collection of marketing best practices.
 
-- Areas of agreement
-- Contradictory advice
-- Situational recommendations
-- Strategic trade-offs
-- Practical limitations
+After comparing practitioner perspectives, I reached a different conclusion.
 
-This comparison forms the basis for the "Where Experts Disagree" section later in this playbook.
+The most valuable outcome was not identifying which practitioner was "right."
 
----
+It was learning how to evaluate recommendations based on evidence, assumptions and implementation context.
 
-## Phase 5 — Synthesis
-
-The final stage involved converting research into one practical operating system.
-
-Rather than following any single expert, this playbook combines the strongest ideas into one repeatable workflow while documenting where judgment was required.
+That shift influenced every document in this repository.
 
 ---
 
-# Guiding Philosophy
+# Repository Limitations
 
-Across all ten practitioners, one consistent observation emerged.
+This repository should not be interpreted as a universal playbook.
 
-LinkedIn growth is rarely the result of algorithm optimization.
+It reflects:
 
-Instead, sustainable growth comes from consistently educating a clearly defined audience, publishing practical insights, building trust over time, and creating repeatable systems.
+- the scope of practitioner material reviewed,
+- the assumptions documented throughout the research process,
+- and my interpretation of the evidence available at the time this project was completed.
 
-While experts disagree on tactics, they consistently agree on several strategic principles.
-
-These include:
-
-- Trust compounds over time.
-- Educational content outperforms promotional content.
-- Founder credibility creates long-term competitive advantage.
-- Consistency matters more than occasional viral posts.
-- AI should improve execution rather than replace judgment.
-- Original insights create stronger authority than recycled opinions.
-
-This playbook therefore prioritizes systems over hacks, long-term reputation over short-term engagement, and evidence over assumptions.
+Where uncertainty exists, it is documented explicitly rather than omitted.
 
 ---
 
-# Core Objective
+# Key Principles Applied Throughout the Repository
 
-The purpose of this playbook is to answer one question:
+- Evidence before opinion.
+- Practitioner research before secondary interpretation.
+- Recurring patterns before isolated recommendations.
+- Transparency over certainty.
+- Adaptation over blind adoption.
+- Judgement supported by evidence.
+- Every major recommendation should be traceable to its source.
 
-> **How can a B2B SaaS company consistently use LinkedIn Organic Content to build authority, trust, qualified opportunities, and long-term business growth?**
+---
 
-The following sections translate research into a repeatable operating system designed to answer that question.
+# Acknowledgements
+
+I would like to acknowledge the practitioners whose published work formed the evidence base for this repository.
+
+While I did not adopt every recommendation unchanged, their newsletters, podcasts, interviews and educational content provided the foundation for the comparative research documented throughout this project.
+
+Any interpretations, synthesis, operating principles and final decisions presented in this repository are my own.
+
+---
+
+# Final Reflection
+
+This repository is not intended to demonstrate that I can collect information.
+
+It is intended to demonstrate how I evaluate information.
+
+My goal throughout this project was to make every significant decision transparent, evidence-informed and open to future revision if stronger evidence becomes available.
+
+If there is one principle that connects every document in this repository, it is this:
+
+> **Good research is not measured by the number of sources collected. It is measured by the quality of the decisions made after evaluating those sources.**
+
+Thank you for taking the time to review my work.
