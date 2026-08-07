@@ -1,8 +1,8 @@
     # 07 – My Original Ideas
 
-    > ## Why this document exists
+    > # Why this document exists
     >
-    >> ## Why this document exists
+    > # Why this document exists
 >
 > One of the objectives of this project was not only to evaluate existing practitioner recommendations but also to develop original thinking grounded in the research.
 >
@@ -148,7 +148,7 @@ The purpose of including this idea is not to defend it.
 
 It is to make the hypothesis explicit so it can be tested.
 
-    # Original Idea 02 — The "Evidence Ladder"
+    # Original Idea 01 — The "Evidence Ladder"
 
     ## Problem It Solves
 
@@ -284,7 +284,7 @@ It is to make the hypothesis explicit so it can be tested.
 
     ---
 
-    # Original Idea 03 — The "Decision Journal"
+    # Original Idea 02 — The "Decision Journal"
 
     ## Problem It Solves
 

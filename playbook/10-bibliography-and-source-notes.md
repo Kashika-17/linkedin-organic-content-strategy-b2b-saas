@@ -160,7 +160,7 @@ Those ideas influenced several strategic decisions documented throughout this re
 
 | Author | Title | Publication Date | URL |
 |---------|-------|------------------|-----|
-| Dave Gerhardt | AI Copywriting, AI Adoption & Content Operations | October 6, 2025 | https://youtu.be/FvgqIaLCdbg |
+| Dave Gerhardt | Marketing in the age of AI: CMOs seperating the hype from what's real | October 6, 2025 | https://youtu.be/FvgqIaLCdbg |
 | Dave Gerhardt | AI Copywriting, AI Adoption & Content Operations (Companion Discussion) | October 6, 2025 | https://youtu.be/cAFYr1DJkng |
 | Dave Gerhardt | Content Distribution, Creator Partnerships & Media Strategy | April 30, 2024 | https://youtu.be/YgzdkcHltCE |
 

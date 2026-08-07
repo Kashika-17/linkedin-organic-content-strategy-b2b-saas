@@ -1,8 +1,8 @@
 # 06 – What I Rejected and Why
 
-> ## Why this document exists
+> # Why this document exists
 >
-> > ## Why this document exists
+> > # Why this document exists
 >
 > One of the objectives of this project was to demonstrate independent judgement rather than simply collect practitioner recommendations.
 >

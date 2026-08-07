@@ -355,54 +355,6 @@ It is to preserve the quality of decision-making as technology changes.
 
 ---
 
-# Final Reflection
-
-At the beginning of this project, I expected the outcome to be a collection of best practices.
-
-Instead, I finished with something different.
-
-I finished with a decision-making framework.
-
-The most valuable lesson was not identifying which expert was "right."
-
-It was learning how to compare evidence, recognise uncertainty and make decisions that remain open to revision.
-
-That perspective influenced every document in this repository.
-
-Whenever the available evidence was strong, I explained why I accepted it.
-
-Whenever experts disagreed, I compared their reasoning before making a decision.
-
-Whenever I introduced my own ideas, I described them as hypotheses rather than established practices.
-
-Whenever I identified weaknesses, I documented the assumptions that still require further validation.
-
-I intentionally structured the repository this way because I believe good strategy is not defined by certainty.
-
-It is defined by transparent reasoning.
-
-If I revisit this repository a year from now, I do not expect every recommendation to remain unchanged.
-
-I hope some of them change.
-
-That would mean new evidence became available and the operating model improved as a result.
-
-For me, that is the purpose of research.
-
-Not to produce conclusions that never change, but to build a decision-making process that continues improving as better evidence emerges.
-
----
-
-# Appendix — Personal Research Principles
-
-While completing this project, I found myself returning to the same principles whenever I had to choose between conflicting recommendations.
-
-Rather than leaving those principles implicit, I decided to document them here because they influenced every decision made throughout this repository.
-
-These are not rules I found in a newsletter or podcast.
-
-They are the principles I used while evaluating the evidence.
-
 ## 1. Agreement Is Not Evidence
 
 If several practitioners repeated the same recommendation, I treated that as a reason to investigate further—not as proof that the recommendation was correct.
