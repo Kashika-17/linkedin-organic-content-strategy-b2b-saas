@@ -1,480 +1,524 @@
-# 07 – My Original Ideas
+    # 07 – My Original Ideas
 
-> ## Why this document exists
+    > ## Why this document exists
+    >
+    >> ## Why this document exists
 >
-> Throughout this research, I deliberately distinguished between:
+> One of the objectives of this project was not only to evaluate existing practitioner recommendations but also to develop original thinking grounded in the research.
 >
-> - ideas supported by existing evidence,
-> - ideas adapted from practitioner recommendations,
-> - and ideas that emerged from my own interpretation of the research.
+> Throughout this repository, I deliberately distinguished between:
 >
-> Alex specifically asked for original thinking.
+> - practitioner evidence,
+> - my interpretation of that evidence,
+> - and new hypotheses that emerged while comparing recurring patterns, disagreements and limitations.
 >
-> Rather than presenting these ideas as proven best practices, I am presenting them as **working hypotheses**.
+> The ideas documented here should not be interpreted as established best practices.
 >
-> None of these ideas appeared explicitly in the material I reviewed.
+> They are original hypotheses that did not appear explicitly in the practitioner material I reviewed.
 >
-> They are my own attempts to improve the operating model developed throughout this repository.
+> I include them because they represent the conclusions I reached after completing the research—not because they have already been validated.
 >
-> I would validate each idea through experimentation before treating it as an established practice.
+> Before adopting any of these ideas within a production environment, I would test them experimentally and compare the results against existing approaches.
 
----
+    ---
 
-# Original Idea 01 — The "Disagreement Statement"
+    # Original Idea 01 — The "Disagreement Statement"
 
-## Problem It Solves
+    ## Problem It Solves
 
-One pattern became increasingly obvious during this research.
+    One pattern became increasingly obvious during this research.
 
-Many LinkedIn posts explain an idea.
+    Many LinkedIn posts explain an idea.
 
-Very few explain **why the author disagrees with commonly accepted advice**.
+    Very few explain **why the author disagrees with commonly accepted advice**.
 
-As AI-generated content becomes more common, this creates an unintended problem.
+    As AI-generated content becomes more common, this creates an unintended problem.
 
-Different creators often produce content that reaches identical conclusions using slightly different wording.
+    Different creators often produce content that reaches identical conclusions using slightly different wording.
 
-The result is educational content that is technically correct but strategically forgettable.
+    The result is educational content that is technically correct but strategically forgettable.
 
----
+    ---
 
-## Why Existing Advice Wasn't Enough
+    ## Why Existing Advice Wasn't Enough
 
-Most practitioners emphasised:
+    Most practitioners emphasised:
 
-- storytelling,
-- educational value,
-- customer problems,
-- original thinking.
+    - storytelling,
+    - educational value,
+    - customer problems,
+    - original thinking.
 
-However, I did not find a structured mechanism that forces writers to produce genuinely differentiated perspectives before drafting begins.
+    However, I did not find a structured mechanism that forces writers to produce genuinely differentiated perspectives before drafting begins.
 
-Originality was encouraged.
+    Originality was encouraged.
 
-It was rarely operationalised.
+    It was rarely operationalised.
 
----
+    ---
 
-## My Idea
+    ## My Idea
 
-Before writing any LinkedIn post, the author must complete one sentence.
+    Before writing any LinkedIn post, the author must complete one sentence.
 
-> **"A commonly accepted belief in this industry is ____________. I agree / disagree / partially agree because ____________."**
+    > **"A commonly accepted belief in this industry is ____________. I agree / disagree / partially agree because ____________."**
 
-I call this the **Disagreement Statement**.
+    I call this the **Disagreement Statement**.
 
-This statement is not necessarily published.
+    This statement is not necessarily published.
 
-Instead, it becomes an internal quality control step.
+    Instead, it becomes an internal quality control step.
 
-Its purpose is to ensure that every content asset contains an identifiable point of view before writing begins.
+    Its purpose is to ensure that every content asset contains an identifiable point of view before writing begins.
 
----
+    ---
 
-## Why I Think It Could Work
+    ## Why I Think It Could Work
 
-During this project, I noticed that the most memorable practitioners consistently challenged assumptions rather than simply explaining them.
+    During this project, I noticed that the most memorable practitioners consistently challenged assumptions rather than simply explaining them.
 
-By forcing writers to identify where they agree or disagree with existing industry beliefs, the drafting process naturally becomes more analytical and less descriptive.
+    By forcing writers to identify where they agree or disagree with existing industry beliefs, the drafting process naturally becomes more analytical and less descriptive.
 
-This simple exercise may also reduce generic AI-generated content because AI typically reproduces consensus unless explicitly instructed otherwise.
+    This simple exercise may also reduce generic AI-generated content because AI typically reproduces consensus unless explicitly instructed otherwise.
 
----
+    ---
 
-## How I Would Test It
+    ## How I Would Test It
 
-I would run an eight-week experiment.
+    I would run an eight-week experiment.
 
-Group A
+    Group A
 
-Traditional content briefing.
+    Traditional content briefing.
 
-Group B
+    Group B
 
-Traditional briefing plus the Disagreement Statement.
+    Traditional briefing plus the Disagreement Statement.
 
-Evaluation criteria:
+    Evaluation criteria:
 
-- perceived originality,
-- audience engagement quality,
-- meaningful comments,
-- content shares,
-- sales conversations referencing the content.
+    - perceived originality,
+    - audience engagement quality,
+    - meaningful comments,
+    - content shares,
+    - sales conversations referencing the content.
 
-I would also conduct qualitative interviews with readers to determine whether the additional perspective improved memorability.
+    I would also conduct qualitative interviews with readers to determine whether the additional perspective improved memorability.
 
----
+    ---
 
-## Risks
+    ## Risks
 
-Not every topic requires a contrarian opinion.
+    Not every topic requires a contrarian opinion.
 
-Writers may feel pressured to disagree simply for the sake of appearing original.
+    Writers may feel pressured to disagree simply for the sake of appearing original.
 
-If used poorly, this framework could encourage unnecessary controversy rather than thoughtful analysis.
+    If used poorly, this framework could encourage unnecessary controversy rather than thoughtful analysis.
 
-For that reason, disagreement should always be evidence-based rather than attention-seeking.
+    For that reason, disagreement should always be evidence-based rather than attention-seeking.
 
----
+    ---
 
-## Success Metrics
+    ## Success Metrics
 
-The experiment would be considered successful if content produced using the Disagreement Statement:
+    The experiment would be considered successful if content produced using the Disagreement Statement:
 
-- demonstrates stronger differentiation,
-- generates more thoughtful discussion,
-- increases customer recall,
-- and produces more repeat engagement from the target audience.
+    - demonstrates stronger differentiation,
+    - generates more thoughtful discussion,
+    - increases customer recall,
+    - and produces more repeat engagement from the target audience.
 
----
+    ---
 
-## Reflection
+    ## Reflection
 
-This is the original idea I am most confident about.
+    This is the original idea I am most confident about.
 
-It directly addresses one of the biggest challenges I observed throughout the research:
+    It directly addresses one of the biggest challenges I observed throughout the research:
 
-As AI makes content creation easier, differentiation increasingly depends on the quality of human judgment rather than the quality of writing alone.
+    As AI makes content creation easier, differentiation increasingly depends on the quality of human judgment rather than the quality of writing alone.
 
-# Original Idea 02 — The "Evidence Ladder"
+    ## What Would Change My Mind
 
-## Problem It Solves
+I consider this idea a working hypothesis rather than an established practice.
 
-Throughout this research, I noticed that many content teams evaluate posts after they are published.
+If future experimentation demonstrated that this approach failed to improve decision quality, customer outcomes or content differentiation, I would remove or revise it accordingly.
 
-They ask questions like:
+The purpose of including this idea is not to defend it.
 
-- Did it perform well?
-- Did it receive engagement?
-- Did it generate pipeline?
+It is to make the hypothesis explicit so it can be tested.
 
-Very few teams appear to evaluate the quality of the evidence **before** writing.
+    # Original Idea 02 — The "Evidence Ladder"
 
-As a result, weak assumptions often survive the entire content creation process.
+    ## Problem It Solves
 
-The audience only discovers those weaknesses after publication.
+    Throughout this research, I noticed that many content teams evaluate posts after they are published.
 
----
+    They ask questions like:
 
-## Why Existing Advice Wasn't Enough
+    - Did it perform well?
+    - Did it receive engagement?
+    - Did it generate pipeline?
 
-Most practitioners emphasise:
+    Very few teams appear to evaluate the quality of the evidence **before** writing.
 
-- understanding customers,
-- creating valuable content,
-- improving storytelling,
-- measuring performance.
+    As a result, weak assumptions often survive the entire content creation process.
 
-However, I found very little discussion about evaluating the **strength of the evidence behind individual content ideas** before investing time in writing.
+    The audience only discovers those weaknesses after publication.
 
-Research quality and content quality were often treated as separate activities.
+    ---
 
-I believe they should be connected.
+    ## Why Existing Advice Wasn't Enough
 
----
+    Most practitioners emphasise:
 
-## My Idea
+    - understanding customers,
+    - creating valuable content,
+    - improving storytelling,
+    - measuring performance.
 
-Before approving any content brief, the author should classify every major claim using an **Evidence Ladder**.
+    However, I found very little discussion about evaluating the **strength of the evidence behind individual content ideas** before investing time in writing.
 
-| Evidence Level | Description |
-|---------------|-------------|
-| Level 1 | Direct customer evidence (interviews, sales calls, support conversations). |
-| Level 2 | Internal company evidence (product usage, experiments, customer success stories). |
-| Level 3 | External practitioner research (newsletters, podcasts, LinkedIn posts, case studies). |
-| Level 4 | Personal interpretation or hypothesis. |
+    Research quality and content quality were often treated as separate activities.
 
-Every major claim within a content asset should be labelled with one of these four levels.
+    I believe they should be connected.
 
-The objective is not to remove opinion.
+    ---
 
-The objective is to make the strength of the evidence transparent before publication.
+    ## My Idea
 
----
+    Before approving any content brief, the author should classify every major claim using an **Evidence Ladder**.
 
-## Why I Think It Could Work
+    | Evidence Level | Description |
+    |---------------|-------------|
+    | Level 1 | Direct customer evidence (interviews, sales calls, support conversations). |
+    | Level 2 | Internal company evidence (product usage, experiments, customer success stories). |
+    | Level 3 | External practitioner research (newsletters, podcasts, LinkedIn posts, case studies). |
+    | Level 4 | Personal interpretation or hypothesis. |
 
-One of the strongest lessons from this project was that not all recommendations deserve equal confidence.
+    Every major claim within a content asset should be labelled with one of these four levels.
 
-By making evidence visible during content creation, marketers become more deliberate about distinguishing:
+    The objective is not to remove opinion.
 
-- observed facts,
-- practitioner opinions,
-- company experience,
-- personal hypotheses.
+    The objective is to make the strength of the evidence transparent before publication.
 
-I believe this would reduce overconfident marketing claims while increasing credibility with sophisticated B2B audiences.
+    ---
 
----
+    ## Why I Think It Could Work
 
-## How I Would Test It
+    One of the strongest lessons from this project was that not all recommendations deserve equal confidence.
 
-For one quarter, I would compare two editorial workflows.
+    By making evidence visible during content creation, marketers become more deliberate about distinguishing:
 
-### Team A
+    - observed facts,
+    - practitioner opinions,
+    - company experience,
+    - personal hypotheses.
 
-Existing editorial process.
+    I believe this would reduce overconfident marketing claims while increasing credibility with sophisticated B2B audiences.
 
-### Team B
+    ---
 
-Editorial process incorporating the Evidence Ladder.
+    ## How I Would Test It
 
-Evaluation criteria:
+    For one quarter, I would compare two editorial workflows.
 
-- factual corrections required after publication,
-- customer trust signals,
-- quality of discussion generated,
-- editorial review time,
-- confidence expressed by reviewers during approval.
+    ### Team A
 
-I would also interview writers to understand whether the framework improved strategic thinking or introduced unnecessary complexity.
+    Existing editorial process.
 
----
+    ### Team B
 
-## Risks
+    Editorial process incorporating the Evidence Ladder.
 
-The framework introduces an additional review step.
+    Evaluation criteria:
 
-Smaller teams with limited editorial resources may perceive it as slowing production.
+    - factual corrections required after publication,
+    - customer trust signals,
+    - quality of discussion generated,
+    - editorial review time,
+    - confidence expressed by reviewers during approval.
 
-It also depends on writers honestly classifying their evidence rather than automatically assigning the highest confidence level.
+    I would also interview writers to understand whether the framework improved strategic thinking or introduced unnecessary complexity.
 
----
+    ---
 
-## Success Metrics
+    ## Risks
 
-I would consider the experiment successful if it resulted in:
+    The framework introduces an additional review step.
 
-- fewer unsupported claims,
-- stronger editorial discussions,
-- greater customer trust,
-- improved consistency across multiple authors.
+    Smaller teams with limited editorial resources may perceive it as slowing production.
 
----
+    It also depends on writers honestly classifying their evidence rather than automatically assigning the highest confidence level.
 
-## Reflection
+    ---
 
-The purpose of this idea is not to make content more academic.
+    ## Success Metrics
 
-It is to make strategic confidence visible before publication.
+    I would consider the experiment successful if it resulted in:
 
-I believe that transparency becomes increasingly valuable as AI lowers the cost of producing persuasive language.
+    - fewer unsupported claims,
+    - stronger editorial discussions,
+    - greater customer trust,
+    - improved consistency across multiple authors.
 
----
+    ---
 
-# Original Idea 03 — The "Decision Journal"
+    ## Reflection
 
-## Problem It Solves
+    The purpose of this idea is not to make content more academic.
 
-Marketing teams often document what they published.
+    It is to make strategic confidence visible before publication.
 
-They rarely document **why they made specific strategic decisions**.
+    I believe that transparency becomes increasingly valuable as AI lowers the cost of producing persuasive language.
 
-As a result, months later it becomes difficult to answer questions such as:
+## What Would Change My Mind
 
-- Why did we stop publishing this topic?
-- Why did we change our positioning?
-- Why did we reject this campaign?
-- What assumptions were we testing?
+I consider this idea a working hypothesis rather than an established practice.
 
-Without documented reasoning, teams repeatedly revisit the same debates and risk repeating previous mistakes.
+If future experimentation demonstrated that this approach failed to improve decision quality, customer outcomes or content differentiation, I would remove or revise it accordingly.
 
----
+The purpose of including this idea is not to defend it.
 
-## Why Existing Advice Wasn't Enough
+It is to make the hypothesis explicit so it can be tested.
 
-Many practitioners encourage experimentation and continuous learning.
+    ---
 
-However, I found little discussion about preserving the reasoning behind strategic decisions.
+    # Original Idea 03 — The "Decision Journal"
 
-Performance data explains **what happened**.
+    ## Problem It Solves
 
-It rarely explains **why a particular decision was made at the time**.
+    Marketing teams often document what they published.
 
-That distinction became increasingly important as I developed this repository.
+    They rarely document **why they made specific strategic decisions**.
 
----
+    As a result, months later it becomes difficult to answer questions such as:
 
-## My Idea
+    - Why did we stop publishing this topic?
+    - Why did we change our positioning?
+    - Why did we reject this campaign?
+    - What assumptions were we testing?
 
-Maintain a lightweight **Decision Journal** alongside the content calendar.
+    Without documented reasoning, teams repeatedly revisit the same debates and risk repeating previous mistakes.
 
-Every significant strategic decision should be recorded using the following template.
+    ---
 
-### Decision
+    ## Why Existing Advice Wasn't Enough
 
-What was decided?
+    Many practitioners encourage experimentation and continuous learning.
 
-### Context
+    However, I found little discussion about preserving the reasoning behind strategic decisions.
 
-What problem were we trying to solve?
+    Performance data explains **what happened**.
 
-### Evidence
+    It rarely explains **why a particular decision was made at the time**.
 
-What information influenced the decision?
+    That distinction became increasingly important as I developed this repository.
 
-### Alternatives Considered
+    ---
 
-What options were rejected?
+    ## My Idea
 
-### Assumptions
+    Maintain a lightweight **Decision Journal** alongside the content calendar.
 
-What must remain true for this decision to succeed?
+    Every significant strategic decision should be recorded using the following template.
 
-### Review Date
+    ### Decision
 
-When should this decision be reconsidered?
+    What was decided?
 
-The objective is not documentation for its own sake.
+    ### Context
 
-The objective is preserving organisational learning.
+    What problem were we trying to solve?
 
----
+    ### Evidence
 
-## Why I Think It Could Work
+    What information influenced the decision?
 
-One recurring observation throughout my research was that experienced marketers frequently describe the outcomes of successful strategies but rarely explain the decision-making process that produced them.
+    ### Alternatives Considered
 
-A Decision Journal captures that missing layer.
+    What options were rejected?
 
-It creates a historical record of strategic thinking rather than simply recording campaign activity.
+    ### Assumptions
 
-Over time, this should improve consistency, onboarding and retrospective analysis.
+    What must remain true for this decision to succeed?
 
----
+    ### Review Date
 
-## How I Would Test It
+    When should this decision be reconsidered?
 
-I would introduce the Decision Journal for six months.
+    The objective is not documentation for its own sake.
 
-At the end of the period, I would evaluate:
+    The objective is preserving organisational learning.
 
-- repeated strategic debates,
-- onboarding time for new team members,
-- quality of retrospective discussions,
-- speed of future decision-making,
-- confidence in strategic alignment across the team.
+    ---
 
-I would also compare how often previous decisions were revisited with and without documented reasoning.
+    ## Why I Think It Could Work
 
----
+    One recurring observation throughout my research was that experienced marketers frequently describe the outcomes of successful strategies but rarely explain the decision-making process that produced them.
 
-## Risks
+    A Decision Journal captures that missing layer.
 
-The journal may become overly detailed if every minor operational decision is recorded.
+    It creates a historical record of strategic thinking rather than simply recording campaign activity.
 
-To remain useful, it should focus only on decisions that materially influence positioning, messaging, customer strategy or resource allocation.
+    Over time, this should improve consistency, onboarding and retrospective analysis.
 
-Leadership discipline is also required to review previous decisions rather than simply creating new ones.
+    ---
 
----
+    ## How I Would Test It
 
-## Success Metrics
+    I would introduce the Decision Journal for six months.
 
-The framework succeeds if the team:
+    At the end of the period, I would evaluate:
 
-- revisits previous decisions instead of repeating debates,
-- improves onboarding,
-- shortens decision cycles,
-- and demonstrates greater consistency in long-term strategy.
+    - repeated strategic debates,
+    - onboarding time for new team members,
+    - quality of retrospective discussions,
+    - speed of future decision-making,
+    - confidence in strategic alignment across the team.
 
----
+    I would also compare how often previous decisions were revisited with and without documented reasoning.
 
-## Reflection
+    ---
 
-This repository itself became the inspiration for this idea.
+    ## Risks
 
-While writing these documents, I realised that documenting the reasoning behind decisions was often more valuable than documenting the decisions themselves.
+    The journal may become overly detailed if every minor operational decision is recorded.
 
-I believe marketing organisations would benefit from preserving this reasoning instead of allowing it to disappear after every campaign.
+    To remain useful, it should focus only on decisions that materially influence positioning, messaging, customer strategy or resource allocation.
 
-# Distinguishing Original Ideas from Evidence
+    Leadership discipline is also required to review previous decisions rather than simply creating new ones.
 
-One of the principles I established at the beginning of this repository was separating evidence from interpretation.
+    ---
 
-I applied the same principle to my own ideas.
+    ## Success Metrics
 
-None of the three ideas presented in this document should be interpreted as established best practices.
+    The framework succeeds if the team:
 
-Instead, I consider them working hypotheses that emerged while comparing the research.
+    - revisits previous decisions instead of repeating debates,
+    - improves onboarding,
+    - shortens decision cycles,
+    - and demonstrates greater consistency in long-term strategy.
 
-To avoid overstating my conclusions, I evaluated each idea using four questions before including it in this repository.
+    ---
 
-| Evaluation Question | Purpose |
-|--------------------|---------|
-| Does this solve a real problem I observed repeatedly during the research? | Ensures the idea addresses an actual gap rather than introducing unnecessary complexity. |
-| Is this idea genuinely different from what practitioners already recommend? | Prevents relabelling existing advice as "original". |
-| Can this idea be tested through experimentation? | Keeps the idea evidence-oriented rather than opinion-based. |
-| Would I still recommend this idea if the experiment produced negative results? | Prevents attachment to personal ideas without supporting evidence. |
+    ## Reflection
 
-Only ideas that satisfied all four questions were included in this document.
+    This repository itself became the inspiration for this idea.
 
----
+    While writing these documents, I realised that documenting the reasoning behind decisions was often more valuable than documenting the decisions themselves.
 
-# How I Would Validate These Ideas
+    I believe marketing organisations would benefit from preserving this reasoning instead of allowing it to disappear after every campaign.
 
-One limitation of practitioner research is that it cannot confirm whether a new idea actually works.
+## What Would Change My Mind
 
-For that reason, I would treat every original idea as an experiment rather than an operating principle.
+I consider this idea a working hypothesis rather than an established practice.
 
-| Original Idea | Validation Method | Success Indicator |
-|---------------|------------------|------------------|
-| **The Disagreement Statement** | A/B test editorial briefs with and without the framework over an eight-week period. | Higher originality, stronger qualitative discussions and increased customer recall. |
-| **The Evidence Ladder** | Compare editorial quality before and after introducing evidence classification. | Fewer unsupported claims, stronger editorial confidence and improved consistency. |
-| **The Decision Journal** | Introduce the journal for six months and review strategic decision quality. | Faster onboarding, fewer repeated debates and better retrospective discussions. |
+If future experimentation demonstrated that this approach failed to improve decision quality, customer outcomes or content differentiation, I would remove or revise it accordingly.
 
-If the experiments failed to produce meaningful improvements, I would remove these ideas from the operating model.
+The purpose of including this idea is not to defend it.
 
-I believe documenting a failed hypothesis is more valuable than continuing to defend an unsupported one.
+It is to make the hypothesis explicit so it can be tested.
 
----
+    # Distinguishing Original Ideas from Evidence
 
-# What I Learned About Original Thinking
+    One of the principles I established at the beginning of this repository was separating evidence from interpretation.
 
-At the beginning of this project, I assumed originality meant generating ideas that nobody had considered before.
+    I applied the same principle to my own ideas.
 
-After reviewing the research, I reached a different conclusion.
+    None of the three ideas presented in this document should be interpreted as established best practices.
 
-Original thinking is rarely about inventing entirely new concepts.
+    Instead, I consider them working hypotheses that emerged while comparing the research.
 
-More often, it comes from recognising patterns that individual practitioners discuss separately and combining them into a more coherent operating system.
+    To avoid overstating my conclusions, I evaluated each idea using four questions before including it in this repository.
 
-That is how the three ideas in this document emerged.
+    | Evaluation Question | Purpose |
+    |--------------------|---------|
+    | Does this solve a real problem I observed repeatedly during the research? | Ensures the idea addresses an actual gap rather than introducing unnecessary complexity. |
+    | Is this idea genuinely different from what practitioners already recommend? | Prevents relabelling existing advice as "original". |
+    | Can this idea be tested through experimentation? | Keeps the idea evidence-oriented rather than opinion-based. |
+    | Would I still recommend this idea if the experiment produced negative results? | Prevents attachment to personal ideas without supporting evidence. |
 
-Each one addresses a weakness I repeatedly observed while comparing the research:
+    Only ideas that satisfied all four questions were included in this document.
 
-- The **Disagreement Statement** strengthens differentiated thinking before writing.
-- The **Evidence Ladder** improves confidence in the evidence supporting each recommendation.
-- The **Decision Journal** preserves strategic reasoning so future teams understand why decisions were made.
+    ---
 
-None of these ideas replace the recommendations from experienced practitioners.
+    # How I Would Validate These Ideas
 
-Instead, they attempt to extend those recommendations in ways that I believe could improve consistency, transparency and long-term learning.
+    One limitation of practitioner research is that it cannot confirm whether a new idea actually works.
 
----
+    For that reason, I would treat every original idea as an experiment rather than an operating principle.
 
-# Closing Reflection
+    | Original Idea | Validation Method | Success Indicator |
+    |---------------|------------------|------------------|
+    | **The Disagreement Statement** | A/B test editorial briefs with and without the framework over an eight-week period. | Higher originality, stronger qualitative discussions and increased customer recall. |
+    | **The Evidence Ladder** | Compare editorial quality before and after introducing evidence classification. | Fewer unsupported claims, stronger editorial confidence and improved consistency. |
+    | **The Decision Journal** | Introduce the journal for six months and review strategic decision quality. | Faster onboarding, fewer repeated debates and better retrospective discussions. |
 
-I intentionally included this document because I believe research should not end with summarising what experts already know.
+    If the experiments failed to produce meaningful improvements, I would remove these ideas from the operating model.
 
-Its greatest value lies in identifying opportunities to build upon that knowledge responsibly.
+    I believe documenting a failed hypothesis is more valuable than continuing to defend an unsupported one.
 
-Throughout this repository, I tried to separate three different kinds of thinking:
+    ---
 
-- **Evidence** — What experienced practitioners consistently supported.
-- **Judgment** — The decisions I made after comparing that evidence.
-- **Original Ideas** — New hypotheses that emerged from analysing the gaps, limitations and recurring patterns across the research.
+    # What I Learned About Original Thinking
 
-Keeping these categories separate was important because it prevents personal ideas from being presented as established facts.
+    At the beginning of this project, I assumed originality meant generating ideas that nobody had considered before.
 
-If I were implementing this playbook in a real B2B SaaS organisation, I would not ask the team to adopt these ideas immediately.
+    After reviewing the research, I reached a different conclusion.
 
-I would ask them to test them.
+    Original thinking is rarely about inventing entirely new concepts.
 
-If the evidence supported them, they would become part of the operating model.
+    More often, it comes from recognising patterns that individual practitioners discuss separately and combining them into a more coherent operating system.
 
-If the evidence contradicted them, I would remove or revise them without hesitation.
+    That is how the three ideas in this document emerged.
 
-For me, that is the most important lesson from this project.
+    Each one addresses a weakness I repeatedly observed while comparing the research:
 
-Original thinking should expand the evidence—not replace it.
+    - The **Disagreement Statement** strengthens differentiated thinking before writing.
+    - The **Evidence Ladder** improves confidence in the evidence supporting each recommendation.
+    - The **Decision Journal** preserves strategic reasoning so future teams understand why decisions were made.
+
+    None of these ideas replace the recommendations from experienced practitioners.
+
+    Instead, they attempt to extend those recommendations in ways that I believe could improve consistency, transparency and long-term learning.
+
+    ---
+
+    # Closing Reflection
+
+    I intentionally included this document because I believe research should not end with summarising what experts already know.
+
+    Its greatest value lies in identifying opportunities to build upon that knowledge responsibly.
+
+    Throughout this repository, I tried to separate three different kinds of thinking:
+
+    - **Evidence** — What experienced practitioners consistently supported.
+    - **Judgment** — The decisions I made after comparing that evidence.
+    - **Original Ideas** — New hypotheses that emerged from analysing the gaps, limitations and recurring patterns across the research.
+
+    Keeping these categories separate was important because it prevents personal ideas from being presented as established facts.
+
+    If I were implementing this playbook in a real B2B SaaS organisation, I would not ask the team to adopt these ideas immediately.
+
+    I would ask them to test them.
+
+    If the evidence supported them, they would become part of the operating model.
+
+    If the evidence contradicted them, I would remove or revise them without hesitation.
+
+    For me, that is the most important lesson from this project.
+
+    Throughout this project, I became more comfortable treating my own ideas with the same level of scepticism that I applied to practitioner recommendations.
+
+I believe that discipline is essential.
+
+New ideas should not be accepted simply because they are original.
+
+They should earn their place through evidence, experimentation and transparent evaluation.
+
+That is the standard I attempted to apply throughout this repository.
+
+For me, originality is not the ability to invent ideas.
+
+It is the willingness to propose ideas that can be tested, challenged, improved or rejected as stronger evidence becomes available.
