@@ -1,11 +1,16 @@
-# LinkedIn Organic Content Strategy for B2B SaaS
+# Deliverable: The Playbook
 
-## Evidence-Informed Execution Playbook / SOP
+[Read the final B2B SaaS Linkedin Organic Strategy Playbook here](./playbook/Readme.md)
+
+
+LinkedIn Organic Content Strategy for B2B SaaS
+
+# Evidence-Informed Execution Playbook / SOP
 ### Supporting Research Repository
 
 ---
 
-## Executive Summary
+# Executive Summary
 
 This repository contains an evidence-informed **LinkedIn Organic Content Execution Playbook / Standard Operating Procedure (SOP)** developed through comparative research across leading B2B SaaS marketing practitioners.
 
@@ -35,7 +40,7 @@ The result is an operating model that aims to balance practical execution with t
 
 # Primary Deliverable
 
-## LinkedIn Organic Content Execution Playbook / SOP
+# LinkedIn Organic Content Execution Playbook / SOP
 
 The Playbook documents a structured workflow for building and operating a LinkedIn Organic Content program within a B2B SaaS organisation.
 
@@ -80,8 +85,8 @@ Critical Evaluation
         │
         ├──────────────┐
         ▼              ▼
-Rejected          Original
-Recommendations   Hypotheses
+What I Reject         My original
+   and why            Ideas
         │              │
         └──────┬───────┘
                ▼
@@ -348,7 +353,7 @@ Several consistent patterns emerged while comparing practitioner recommendations
 
 Rather than treating these as universal truths, I interpreted them as recurring observations that informed the final operating model.
 
-## 1. Strategy Should Precede Content
+# 1. Strategy Should Precede Content
 
 Practitioners consistently emphasised that content performs best when it supports broader business positioning rather than existing as an isolated marketing activity.
 
@@ -356,7 +361,7 @@ This influenced both the Operating Principles and the structure of the Execution
 
 ---
 
-## 2. Educational Content Builds Long-Term Trust
+# 2. Educational Content Builds Long-Term Trust
 
 Across multiple practitioners, educational content appeared more sustainable than purely promotional content.
 
@@ -364,7 +369,7 @@ The Playbook therefore prioritises helping the audience understand problems befo
 
 ---
 
-## 3. Differentiation Requires Original Judgement
+# 3. Differentiation Requires Original Judgement
 
 Many practitioners encouraged original thinking.
 
@@ -374,7 +379,7 @@ This observation influenced several sections of the Playbook together with the o
 
 ---
 
-## 4. AI Improves Execution but Does Not Replace Judgement
+# 4. AI Improves Execution but Does Not Replace Judgement
 
 AI appeared consistently throughout the research as a tool for improving productivity, research and content development.
 
@@ -384,7 +389,7 @@ The Playbook therefore positions AI as a supporting capability rather than an au
 
 ---
 
-## 5. Sustainable Systems Outperform Individual Tactics
+# 5. Sustainable Systems Outperform Individual Tactics
 
 The strongest practitioners rarely focused on isolated content tactics.
 
@@ -553,7 +558,7 @@ I hope it demonstrates not only the final operating model, but also the research
 
 ---
 
-## Repository Status
+# Repository Status
 
 **Version:** 1.0
 
