@@ -1,8 +1,5 @@
 # Deliverable: The Playbook
 
-[Read the final B2B SaaS Linkedin Organic Strategy Playbook here](./playbook/Readme.md)
-
-
 LinkedIn Organic Content Strategy for B2B SaaS
 
 # Evidence-Informed Execution Playbook / SOP
