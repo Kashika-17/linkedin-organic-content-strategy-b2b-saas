@@ -2,27 +2,28 @@
 
 > ## Why this document exists
 >
-> One of the objectives of this project was to demonstrate independent judgment rather than simply compile expert recommendations.
+> > ## Why this document exists
 >
-> During my research, I encountered many ideas that initially appeared convincing.
+> One of the objectives of this project was to demonstrate independent judgement rather than simply collect practitioner recommendations.
 >
-> Some were supported by respected practitioners.
+> Throughout the research process, I encountered many ideas that initially appeared persuasive.
 >
-> Others were widely accepted within the marketing community.
+> Some were widely accepted within B2B marketing.
 >
-> However, after comparing multiple sources and evaluating their transferability, I deliberately chose not to include certain recommendations in the final operating model.
+> Others came from practitioners whose work I respect and referenced elsewhere in this repository.
 >
-> Rejecting a recommendation does **not** mean it is incorrect.
+> However, after comparing evidence across multiple sources, evaluating implementation assumptions and considering the specific objectives of this operating model, I deliberately chose not to adopt every recommendation.
 >
-> It means I concluded that it was either:
+> Rejecting a recommendation should not be interpreted as rejecting the expertise behind it.
 >
-> - too context-dependent,
-> - insufficiently supported,
-> - inconsistent with the operating principles established in this repository,
-> - or less transferable than an alternative approach.
+> Instead, it reflects a judgement that, within the context of this repository, another approach was either:
 >
-> I believe documenting these decisions demonstrates more judgment than presenting only the recommendations I accepted.
-
+> - more transferable,
+> - better supported by recurring evidence,
+> - more consistent with the operating principles documented earlier,
+> - or better aligned with the objectives of a LinkedIn Organic Content strategy for B2B SaaS.
+>
+> I believe documenting these decisions demonstrates judgement more effectively than presenting only the recommendations I accepted.
 ---
 
 # Rejected Recommendation 01 — "Post Every Day"
@@ -146,6 +147,13 @@ If I were building a creator business where audience size directly determined re
 
 For B2B SaaS brand building, I believe quality-first remains the stronger operating decision.
 
+## Conditions Under Which I Would Reconsider
+
+This recommendation is not permanently rejected.
+
+I would reconsider it if future evidence demonstrated that the underlying assumptions had changed or if the operating context differed materially from the one considered throughout this repository.
+
+Until then, I believe the alternative documented above remains the stronger operating decision.
 ---
 
 ## Final Decision
@@ -275,6 +283,14 @@ For internal documentation, process documentation or operational content, I woul
 
 For externally published thought leadership, I would continue requiring human ownership.
 
+## Conditions Under Which I Would Reconsider
+
+This recommendation is not permanently rejected.
+
+I would reconsider it if future evidence demonstrated that the underlying assumptions had changed or if the operating context differed materially from the one considered throughout this repository.
+
+Until then, I believe the alternative documented above remains the stronger operating decision.
+
 ---
 
 ## Final Decision
@@ -391,6 +407,14 @@ If LinkedIn introduced a significant product feature that materially changed con
 
 However, I would avoid redesigning the overall strategy around temporary platform behaviour.
 
+
+## Conditions Under Which I Would Reconsider
+
+This recommendation is not permanently rejected.
+
+I would reconsider it if future evidence demonstrated that the underlying assumptions had changed or if the operating context differed materially from the one considered throughout this repository.
+
+Until then, I believe the alternative documented above remains the stronger operating decision.
 ---
 
 ## Final Decision
@@ -536,6 +560,14 @@ I would intentionally increase product visibility.
 
 Outside those situations, I would continue prioritising educational content.
 
+
+## Conditions Under Which I Would Reconsider
+
+This recommendation is not permanently rejected.
+
+I would reconsider it if future evidence demonstrated that the underlying assumptions had changed or if the operating context differed materially from the one considered throughout this repository.
+
+Until then, I believe the alternative documented above remains the stronger operating decision.
 ---
 
 ## Final Decision
@@ -646,6 +678,14 @@ If I were responsible solely for growing a creator account or managing social me
 
 For B2B SaaS growth, I believe it should remain a supporting metric.
 
+
+## Conditions Under Which I Would Reconsider
+
+This recommendation is not permanently rejected.
+
+I would reconsider it if future evidence demonstrated that the underlying assumptions had changed or if the operating context differed materially from the one considered throughout this repository.
+
+Until then, I believe the alternative documented above remains the stronger operating decision.
 ---
 
 ## Final Decision
@@ -660,22 +700,25 @@ Do not optimise exclusively for engagement.
 
 # My Rejection Framework
 
-One of the most valuable outcomes of this research was realising that rejecting an idea requires just as much evidence as accepting one.
+# My Rejection Framework
 
-Throughout this project, I deliberately avoided rejecting recommendations simply because I personally disagreed with them.
+Before rejecting any recommendation, I required evidence rather than intuition.
 
-Instead, every rejected recommendation had to satisfy at least one of the following conditions.
+The framework below was applied consistently throughout this document to ensure that rejection decisions remained transparent, repeatable and aligned with the research methodology documented in Document 01.
+
+Rather than rejecting recommendations because I personally disagreed with them, I evaluated whether they remained appropriate for the operating model developed throughout this repository.
+
+Every rejected recommendation satisfied at least one of the following criteria.
 
 | Rejection Criterion | Reason |
 |---------------------|--------|
 | Context-dependent | The recommendation only worked under specific business conditions. |
 | Weak supporting evidence | The recommendation appeared infrequently or lacked convincing justification. |
 | Conflict with stronger evidence | Multiple independent practitioners consistently supported an alternative approach. |
-| Low transferability | The recommendation depended on resources, scale or circumstances that many B2B SaaS companies would not possess. |
-| Inconsistent with this operating model | The recommendation conflicted with the principles established in Documents 01–05. |
+| Low transferability | The recommendation depended on resources, scale or organisational maturity that many B2B SaaS companies would not possess. |
+| Inconsistent with this operating model | The recommendation conflicted with the operating principles established in Documents 01–05. |
 
-This framework ensured that rejection decisions remained evidence-based rather than opinion-based.
-
+This framework helped ensure that rejection decisions were based on evidence and implementation context rather than personal preference.
 ---
 
 # What This Taught Me
@@ -712,6 +755,10 @@ They were rejected because, after comparing the available evidence, evaluating c
 
 For me, that is the difference between research and judgment.
 
-Research collects possibilities.
+Research expands the range of possible decisions.
 
-Judgment decides which possibilities deserve execution.
+Judgement determines which of those decisions should actually become part of an operating model.
+
+That distinction became one of the most valuable lessons I learned while completing this project.
+
+It is also the principle that connects every document in this repository.
