@@ -21,150 +21,117 @@
 
 ## Disagreement 01 — Publishing Frequency: Volume vs Quality
 
-### Why this disagreement matters
+### Why This Disagreement Matters
 
 Publishing frequency is one of the easiest areas to turn into a simplistic rule.
 
-More publishing can create more opportunities for discovery and experimentation, but frequency can also become counterproductive if it reduces originality, relevance or quality.
+More publishing can create more opportunities for discovery, experimentation and audience learning.
 
+However, increasing volume can also become counterproductive if it reduces originality, relevance or quality.
 
----
+The question I therefore wanted to evaluate was not simply whether companies should publish more or less.
 
-## Contextual Alternative — AI-First Content Automation
-
-### Position A — AI Should Generate Most Marketing Content
-
-### Evidence Considered
-
-An AI-first operating model would push content production substantially further toward automation.
-
-Under this model, AI could be used for:
-
-- research,
-- idea generation,
-- drafting,
-- repurposing,
-- formatting,
-- scheduling,
-- publishing,
-- and performance analysis.
-
-The underlying assumption is that modern AI can reduce the marginal cost of content production enough that marketing teams should optimise for speed, experimentation and output volume.
-
-The strongest argument for this approach is operational rather than strategic: if AI can produce acceptable content at a fraction of the time and cost of human production, increasing automation creates more opportunities to test topics, formats and messages.
-
-However, I did not identify a sufficiently specific source among the ten practitioners researched for this repository that explicitly recommends allowing AI to generate and publish most external marketing content with minimal human intervention.
-
-I therefore treat this as a **contextual alternative that I considered**, rather than attributing it to one of the ten practitioners.
-
-This distinction is important because I do not want to manufacture an expert disagreement where the research does not support one.
+It was whether publishing frequency should be treated as a primary strategic objective or as a variable that should support a broader content strategy.
 
 ---
 
-## Position B — AI Should Assist Execution While Humans Retain Strategic Ownership
+## Contextual Alternative — Frequent Publishing as a General Creator-Economy Norm
 
-### Evidence Considered
+### Evidence Status
 
-**Kieran Flanagan**
+I could not trace this position to one specific practitioner among the 10 experts researched for this repository.
 
-**Title:** 3 Marketing Jobs Worth Paying 2x For
+The recommendation appeared repeatedly as a broader norm within LinkedIn growth and creator-focused content:
 
-**Source:** Newsletter
+- publish frequently,
+- build audience familiarity,
+- increase opportunities for discovery,
+- improve through repetition.
 
-**Date:** 12 Jun 2026
+Because I could not attribute this position to a specific practitioner in my collected research, I am not treating it as evidence from one of the ten selected experts.
 
-https://www.kieranflanagan.io/p/3-marketing-jobs-worth-paying-2x
+The underlying assumption is that increased publishing frequency creates more opportunities for audience growth.
 
----
+I considered this approach because greater volume can be useful when audience growth, experimentation and learning are the primary objectives.
 
-**Emily Kramer**
-
-**Title:** Marketing Strategy in Claude
-
-**Source:** Newsletter
-
-**Date:** 19 Mar 2026
-
-https://newsletter.mkt1.co/p/build-marketing-strategy-skill-in-claude-code
+However, I did not want to present a general creator-economy norm as though one of the ten practitioners explicitly made the recommendation.
 
 ---
 
-**Elena Verna**
+## Position B — Quality and Differentiation
 
-**Title:** AI-Native Growth Playbook
+Several practitioners in the research emphasise originality, differentiation, customer understanding, educational value and trust rather than treating content volume as the primary objective.
 
-**Source:** YouTube
+**Udi Ledergor**
 
-**Date:** 18 Dec 2025
+Udi's work emphasises creating content that people genuinely want to consume rather than increasing output simply for the sake of publishing more.
 
-https://youtu.be/6qAB6aUMIeA
+His approach also places importance on educational content, original research and long-term trust.
+
+**Dave Gerhardt**
+
+Dave Gerhardt's research similarly emphasises differentiated writing and developing a recognisable point of view, particularly in an environment where AI makes generic content easier to produce.
+
+The implication I took from this evidence is that publishing more frequently does not automatically make the content more strategically valuable.
 
 ---
 
 ## My Evaluation
 
-The research supports a clear distinction between **automation of execution** and **automation of strategic judgment**.
+I do not think publishing frequency and content quality are mutually exclusive.
 
-The practitioners I studied generally saw substantial value in using AI for research, drafting, analysis, workflow automation and content operations.
+A sustainable cadence is necessary because publishing creates opportunities to learn what resonates with the audience.
 
-However, the evidence I collected did not support handing complete strategic ownership of externally published thought leadership to AI.
+However, frequency becomes a weak strategic objective when it is pursued independently of relevance, differentiation and business purpose.
 
-That distinction is important.
+The evidence I found was stronger for treating publishing as part of a learning and distribution system than for treating volume itself as the goal.
 
-The question is therefore not whether AI should generate content.
-
-It clearly can.
-
-The question is whether the organisation should allow AI-generated content to bypass human ownership of positioning, customer understanding, differentiation and editorial judgment.
-
-Based on the evidence I reviewed, I do not believe it should.
----
-
-
-### My Decision
-
-I take a hybrid position.
-
-AI should materially increase the speed of research, drafting, repurposing and experimentation, but human judgment should remain responsible for positioning, customer insight, differentiation and final editorial approval.
-
-This gives the organisation the operational advantage of AI without making publishing volume the objective.
-
-**Sources:** Kieran Flanagan, *The New Rules of Marketing*, LinkedIn, 03 July 2026; Dave Gerhardt, *Standing Out When Everyone Uses AI*, LinkedIn, 29 June 2026.
+That distinction matters because a team can increase the number of posts it publishes without improving the quality of its ideas, its understanding of the audience or its commercial relevance.
 
 ---
 
-## Trade-offs
+## My Decision
 
-This decision sacrifices:
+I choose **quality-first with a sustainable cadence**.
 
-- short-term visibility,
-- algorithm exposure,
-- publishing volume.
+Publishing frequency should be high enough to create learning and distribution opportunities, but it should not become the primary KPI.
 
-In exchange it strengthens:
+I would rather publish fewer differentiated pieces than increase volume by producing repetitive or generic content.
 
-- credibility,
-- trust,
-- differentiation,
-- long-term authority.
+This decision is based on the transferability of the evidence to B2B SaaS rather than a belief that high-frequency publishing is universally ineffective.
 
----
+The appropriate cadence should therefore be determined by:
 
-## When I Would Choose the Alternative
-
-If my objective were rapid creator growth or audience monetisation, I would increase publishing frequency.
-
-However, for B2B SaaS companies building long-term trust, I believe quality-first is the stronger operating decision.
+- the organisation's ability to maintain quality;
+- the amount of original insight available;
+- audience response and learning;
+- available production capacity;
+- and the commercial objective of the content.
 
 ---
 
-## Final Recommendation
+## Trade-Off
 
-For this playbook, publishing cadence should support quality—not replace it.
+A quality-first approach has a clear downside.
 
-Frequency is an execution variable.
+Publishing less frequently can reduce the number of opportunities available for experimentation and discovery.
 
-Quality is a strategic decision.
+I therefore would not interpret this decision as a recommendation to publish rarely.
+
+The operating model should maintain a consistent enough cadence to generate learning while protecting the quality and differentiation of each piece.
+
+The trade-off is intentional:
+
+> **Enough volume to learn, enough quality to matter.**
+
+---
+
+## Sources
+
+- Udi Ledergor, *Courageous Marketing: How Udi Ledergor Scaled Gong from Zero to Unicorn*, YouTube, 29 January 2026.
+- Dave Gerhardt, *Standing Out When Everyone Uses AI*, LinkedIn, 29 June 2026.
+
+The broader frequent-publishing position is treated as a **contextual alternative**, not as a recommendation attributed to one of the ten selected practitioners.
 
 ---
 
