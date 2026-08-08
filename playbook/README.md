@@ -226,4 +226,4 @@ The goal is to create a sustainable system for producing differentiated, useful 
 
 **Status:** Complete
 
-**By: **Kashika Aggarwal
+By: Kashika Aggarwal
