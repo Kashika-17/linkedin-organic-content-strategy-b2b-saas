@@ -397,6 +397,29 @@ I believe that produces stronger discussions than asking people to accept conclu
 
 ---
 
+## Additional Weakness — Recommendations Are Not Yet Experimentally Validated
+
+This repository establishes an evidence-informed operating model, not a statistically validated performance model.
+
+The recommendations have been derived from practitioner evidence, cross-source comparison and my own judgment.
+
+They have not yet been tested as a controlled system across a sufficiently large number of B2B SaaS companies.
+
+Therefore, I would not treat the recommendations as guaranteed predictors of pipeline, engagement or revenue.
+
+The next stage should be experimentation.
+
+For each major recommendation, I would define:
+
+- the hypothesis,
+- the expected behavioural change,
+- the leading indicator,
+- the business outcome,
+- the test period,
+- and the condition under which the recommendation would be retained or rejected.
+
+This distinction is important because a recommendation can be well supported by practitioner evidence while still failing in a specific company context.
+
 ## Closing Note
 
 When I started this project, I thought the challenge would be finding the right answers.

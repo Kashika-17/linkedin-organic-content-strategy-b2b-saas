@@ -2,7 +2,7 @@
 
 > ## Why this document exists
 >
-> One of Alex's requirements for this project was identifying who I would **not** recommend following and explaining why.
+> One of the requirements for this project was identifying who I would **not** recommend following and explaining why.
 >
 > My first reaction was to interpret this as a request to identify the "weakest" practitioner in my research.
 >
@@ -67,117 +67,129 @@ What I can do—and what I believe demonstrates better judgement—is explain wh
 
 ---
 
-# Practitioner I Would Be Most Cautious About Applying Directly — Adam Robinson
+# Practitioner I Would Be Most Cautious About Applying Directly — Kyle Poyar
 
-## Why I Chose Adam Robinson
+## Why I Chose Kyle Poyar
 
-This was the most difficult conclusion in the repository because I found Adam Robinson's work both practical and commercially valuable.
+This was not a decision about whether Kyle Poyar is a strong or weak practitioner.
 
-Several ideas from his newsletters influenced how I thought about execution, operational discipline and measurable marketing systems.
+I consider his work highly valuable, particularly in areas such as B2B SaaS growth, pricing and monetization, GTM strategy, original research, benchmarks and research-led marketing.
 
-However, after comparing his work with the other practitioners included in this repository, I found that his published recommendations were generally less transferable to the specific problem I was trying to solve.
+My caution is specifically about the scope of this Playbook.
 
-This conclusion should not be interpreted as a criticism of his expertise.
+The question I am evaluating here is not:
 
-It reflects the scope of this repository.
+> "Who is the least credible practitioner?"
 
----
+It is:
+
+> "Whose recommendations would I be least likely to apply unchanged when building this specific LinkedIn Organic Content operating model?"
+
+For that question, I would be most cautious about using Kyle Poyar as my primary authority for the LinkedIn content-execution layer.
 
 ## What I Learned From His Work
 
-Adam Robinson consistently emphasises:
+Kyle's research contributed useful strategic context to this project, particularly around:
 
-- operational discipline,
-- repeatable GTM systems,
-- measurable commercial outcomes,
-- structured execution,
-- and marketing accountability.
+- SaaS growth,
+- pricing and monetization,
+- GTM strategy,
+- original research,
+- benchmarks,
+- sustainable growth,
+- and research-led marketing.
 
-Those ideas strengthened the execution layer of my playbook, particularly Documents 04 and 05.
+Those areas helped me think about content as part of a broader commercial system rather than as an isolated publishing activity.
 
-I consider those contributions valuable.
-
----
+I would still use his work when thinking about how content connects to meaningful business problems, customer value and commercial outcomes.
 
 ## Why I Would Be Cautious
 
-The reason I would be cautious is not because I disagree with his recommendations.
+My caution is about transferability to the specific execution problem addressed by this Playbook.
 
-It is because many of them appear to assume organisational conditions such as:
+The LinkedIn Organic Content operating model requires decisions around areas such as:
 
-- established GTM processes,
-- close sales and marketing alignment,
-- mature operational reporting,
-- sufficient organisational resources,
-- and disciplined execution across multiple functions.
+- LinkedIn post structure,
+- executive thought leadership,
+- hooks,
+- storytelling,
+- publishing workflows,
+- content formats,
+- distribution,
+- and day-to-day content operations.
 
-Those assumptions are reasonable.
+Kyle's work is relevant to those areas, but the strongest recurring body of evidence I found in my research was broader B2B SaaS growth, pricing, GTM and research-led marketing.
 
-However, they were not assumptions I made while designing this operating model.
+That makes his work highly useful for the **strategic context** surrounding the Playbook, but less suitable as my single primary authority for every part of the **content-execution layer**.
 
-My objective was to create a framework that remained applicable to a broader range of B2B SaaS teams, including organisations with fewer resources or less mature marketing operations.
+This is therefore a scope-of-evidence decision rather than a credibility judgement.
 
-For that reason, I concluded that Adam Robinson's recommendations often require adaptation before implementation rather than direct adoption.
+## Would I Recommend Following Kyle Poyar?
 
-## Would I Recommend Following Adam Robinson?
+Yes — with context.
 
-Yes—but not without adaptation.
+If someone wanted to learn:
 
-If someone asked me for one practitioner whose recommendations I would be most cautious about applying directly to the operating model developed in this repository, my answer would be Adam Robinson.
+- SaaS growth,
+- pricing,
+- monetization,
+- GTM strategy,
+- research-led marketing,
+- original research,
+- or benchmark-driven decision making,
 
-That answer surprised me because I genuinely respect the quality of his work.
+I would actively recommend studying Kyle's work.
 
-It also challenged one of my assumptions going into this project.
+If someone specifically wanted to learn:
 
-I initially expected that good marketing advice would naturally transfer across different organisations.
+- LinkedIn post mechanics,
+- executive thought leadership,
+- hooks,
+- storytelling,
+- publishing workflows,
+- or LinkedIn content operations,
 
-After comparing the practitioners included in this repository, I no longer believe that is always true.
-
-Advice can be excellent while still depending on organisational conditions that are not universally available.
-
-That is how I interpreted Adam Robinson's work.
-
----
+I would use Kyle as a supporting source rather than my primary authority.
 
 ## Why I Reached This Conclusion
 
-The difference was not the quality of the recommendations.
+My research confirms that LinkedIn Organic Content Strategy is within Kyle's broader research scope.
 
-The difference was the assumptions behind them.
+I therefore would not claim that Kyle lacks LinkedIn expertise.
 
-Across the material I reviewed, many of Adam Robinson's recommendations appeared to assume:
+Instead, my conclusion comes from comparing the **distribution of evidence across all ten practitioners**.
 
-- a mature GTM organisation,
-- established sales and marketing alignment,
-- reliable operational reporting,
-- clearly defined commercial ownership,
-- and the capacity to execute structured growth systems consistently.
+Some practitioners in the research had a greater concentration of material directly addressing content creation, executive visibility, storytelling, distribution and LinkedIn execution.
 
-Those assumptions make sense for the environments he typically writes about.
+Kyle's strongest contribution to this repository was different: he helped strengthen the strategic and commercial context in which content operates.
 
-However, they were not assumptions I wanted this operating model to depend on.
+For this particular Playbook, I would therefore combine his strategic thinking with practitioners whose evidence is more directly concentrated on the execution problems the Playbook needs to solve.
 
-Throughout Documents 01–08, I deliberately tried to build a framework that could still be useful for smaller B2B SaaS teams, earlier-stage organisations and marketing teams with fewer operational resources.
+## What I Would Still Take From Kyle
 
-For that reason, I found myself adapting Adam Robinson's recommendations more frequently than those of several other practitioners.
+I would retain Kyle's contribution to:
 
----
+- research-led thought leadership,
+- original data,
+- commercial relevance,
+- SaaS benchmarks,
+- pricing and monetization thinking,
+- sustainable growth,
+- and the principle that content should connect to meaningful business problems rather than vanity metrics.
 
-## What I Would Do Instead
+**Research basis:** Kyle Poyar research collected in this repository, including his work on SaaS growth, pricing and monetization, GTM strategy, original research, benchmarks and research-led marketing. The underlying sources are documented in `09 – Sources & References`.
 
-If I were working inside an organisation with a mature GTM function, I would apply much more of Adam Robinson's thinking directly.
+## Final Position
 
-However, for the operating model developed in this repository, I preferred recommendations that relied more heavily on:
+I would not tell someone to ignore Kyle Poyar.
 
-- customer understanding,
-- positioning,
-- educational value,
-- editorial judgement,
-- and strategic clarity.
+I would tell them to use him for the areas of B2B SaaS strategy where his evidence is strongest, while pairing that thinking with practitioners whose published work is more directly concentrated on LinkedIn content execution.
 
-Those principles appeared repeatedly across several practitioners and required fewer organisational assumptions before becoming useful.
+If the objective changed from LinkedIn Organic Content to SaaS growth, pricing, monetization or broader GTM strategy, my conclusion would likely change.
 
-That is why practitioners such as Dave Gerhardt, Emily Kramer and Ross Simmonds influenced the strategic direction of this repository more heavily, while Adam Robinson influenced the execution layer.
+That is the distinction I wanted this section to make:
+
+**An expert can be highly credible and highly useful while still not being my primary source for every problem within a specific operating model.**
 
 ---
 
@@ -283,29 +295,27 @@ That is the biggest lesson I took away from this research.
 
 If I must answer the question directly:
 
-> **Who would I not recommend following?**
+> **"Who would I not recommend following?"**
 
-My answer is:
+I would not interpret the question as asking me to identify a "bad" practitioner.
 
-**I would not recommend following any practitioner without first understanding the assumptions behind their advice.**
+All ten practitioners contributed useful ideas to this research.
 
-However, if I had to identify one practitioner whose published recommendations I would be least likely to apply unchanged when building the operating model documented in this repository, my answer would be **Adam Robinson**.
+However, if I had to identify one practitioner whose recommendations I would be **least likely to apply unchanged as my primary authority for the LinkedIn Organic Content execution layer**, my answer would be **Kyle Poyar**.
 
 That conclusion should not be interpreted as a judgement on his expertise.
 
-It reflects the specific objective of this repository.
+Kyle's work is highly valuable for B2B SaaS growth, pricing and monetization, GTM strategy, original research, benchmarks and research-led marketing.
 
-His work strengthened my thinking around execution, measurement and operational discipline.
+My decision reflects the specific objective of this repository.
 
-The reason I adapted many of his recommendations is that they often assume organisational maturity that I deliberately chose not to assume while developing this playbook.
+For LinkedIn content execution, I would use Kyle's strategic and research-led thinking as a supporting input while relying more heavily on practitioners whose published work is more directly concentrated on content mechanics, executive thought leadership, storytelling, distribution and publishing systems.
 
-If those organisational conditions existed, I would expect my recommendation to change.
+If the business problem changed, my recommendation could change with it.
 
-For me, that is what good judgement looks like.
+For me, that is what good judgement looks like:
 
-Not deciding whether an expert is "right" or "wrong."
-
-Deciding whether the conditions that make their advice effective also exist in the problem I am trying to solve.
+not deciding whether an expert is "right" or "wrong," but deciding whether the evidence and assumptions behind their advice match the problem I am trying to solve.
 
 ---
 

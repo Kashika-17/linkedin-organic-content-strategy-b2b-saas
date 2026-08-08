@@ -118,6 +118,9 @@ Whenever possible, I preferred recurring patterns across practitioners instead o
 
 This approach helped separate durable principles from platform-specific advice.
 
+The experts differed on several tactical and strategic questions, including the role of founder branding, AI-assisted production, distribution, employee advocacy, publishing systems, and the balance between speed and editorial quality.
+
+Where the evidence supported a genuine disagreement between named practitioners, I document that disagreement separately rather than treating differences in emphasis as direct contradictions.
 ---
 
 # Evidence Hierarchy

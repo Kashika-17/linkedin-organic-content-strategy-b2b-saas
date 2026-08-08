@@ -1,24 +1,60 @@
-    # 07 – My Original Ideas
+   # My Original Idea — The Content Evidence Ledger
 
-    > # Why this document exists
-    >
-    > # Why this document exists
->
-> One of the objectives of this project was not only to evaluate existing practitioner recommendations but also to develop original thinking grounded in the research.
->
-> Throughout this repository, I deliberately distinguished between:
->
-> - practitioner evidence,
-> - my interpretation of that evidence,
-> - and new hypotheses that emerged while comparing recurring patterns, disagreements and limitations.
->
-> The ideas documented here should not be interpreted as established best practices.
->
-> They are original hypotheses that did not appear explicitly in the practitioner material I reviewed.
->
-> I include them because they represent the conclusions I reached after completing the research—not because they have already been validated.
->
-> Before adopting any of these ideas within a production environment, I would test them experimentally and compare the results against existing approaches.
+## The Idea
+
+I would add an "Evidence Ledger" to the content workflow.
+
+Before a thought-leadership post is published, the marketer records:
+
+1. The claim being made.
+2. The evidence supporting the claim.
+3. Whether the evidence comes from customer data, company experience, external research or practitioner knowledge.
+4. The confidence level of the claim.
+5. Whether the claim is an observation, interpretation or recommendation.
+
+The ledger would remain internal and would not necessarily appear in the published post.
+
+## Why I Believe This Could Work
+
+Most content workflows optimise for producing and distributing content.
+
+I would add a second control layer: verifying the epistemic quality of the ideas being published.
+
+This could reduce the risk of turning:
+
+- practitioner opinions into universal rules,
+- correlations into causal claims,
+- isolated examples into general recommendations,
+- or AI-generated statements into apparently authoritative facts.
+
+It could also make content review faster because editors would not need to rediscover the evidence behind every important claim.
+
+## Why I Consider It Original
+
+I did not find this exact operating mechanism in the practitioner research reviewed for this repository.
+
+The experts frequently discussed original research, customer evidence, differentiated thinking, AI-assisted workflows and content quality.
+
+My contribution is combining those principles into a lightweight internal evidence-control mechanism specifically for LinkedIn content production.
+
+## How I Would Test It
+
+For the first 30 published posts, I would record:
+
+- number of substantive claims,
+- number of claims with identifiable evidence,
+- number of posts requiring factual correction,
+- editorial review time,
+- engagement quality,
+- qualified conversations generated.
+
+I would compare the results with the previous content workflow.
+
+If the ledger increases review time without improving content quality or downstream outcomes, I would simplify or remove it.
+
+If it reduces factual corrections and improves editorial confidence without materially slowing production, I would retain it.
+
+**Status:** Original operating idea. Not presented as an established practitioner recommendation.
 
     ---
 

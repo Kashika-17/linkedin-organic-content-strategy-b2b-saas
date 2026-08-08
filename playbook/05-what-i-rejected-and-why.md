@@ -47,12 +47,28 @@ Initially, this recommendation appeared reasonable.
 
 ---
 
-## Evidence Considered
+### Evidence Considered
 
-### Creator-led LinkedIn advice
+I encountered frequent-publishing advice during the broader LinkedIn research process, particularly within creator-focused marketing discussions.
 
-Recurring recommendation across multiple creator-focused practitioners encouraging daily publishing to maximise audience growth.
+However, I could not identify a sufficiently specific source among the ten practitioners selected for this repository that explicitly supports the recommendation "post every day."
 
+I therefore do not attribute this recommendation to a specific practitioner.
+
+Instead, I evaluated it as a contextual publishing strategy.
+
+The potential benefits are straightforward:
+
+- more opportunities for experimentation,
+- more opportunities for audience exposure,
+- faster feedback cycles,
+- and greater content volume.
+
+These benefits may be particularly relevant to creator-led businesses where audience growth itself is a primary commercial objective.
+
+However, I found stronger support across the research for prioritising originality, customer relevance, differentiation, education and trust over publishing volume as a strategic objective.
+
+**Evidence used for the quality-first decision:** Udi Ledergor, *Courageous Marketing: How Udi Ledergor Scaled Gong from Zero to Unicorn*, YouTube, 29 January 2026; Dave Gerhardt, *Standing Out When Everyone Uses AI*, LinkedIn, 29 June 2026.
 ---
 
 ### Dave Gerhardt

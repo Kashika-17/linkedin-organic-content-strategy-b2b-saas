@@ -134,6 +134,7 @@ Customers.
 
 Because this recommendation appeared across multiple independent experts working in different disciplines, I considered it sufficiently strong to become the first execution rule of this playbook.
 
+
 ---
 
 ## Alternative Viewpoints
@@ -1171,6 +1172,11 @@ Return to strategy.
 
 Do not publish.
 
+Use a consistent publishing cadence that the team can sustain without reducing content quality.
+
+The cadence should be treated as an operating constraint rather than the primary measure of success.
+
+**Source:** Cross-expert synthesis; see `04-Where Experts Disagree.md` and `05-What I Rejected & Why.md`.
 ---
 
 # Why I Included This Scorecard

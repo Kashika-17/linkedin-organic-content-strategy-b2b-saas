@@ -19,63 +19,67 @@
 
 ---
 
-# Disagreement 01 — Should LinkedIn Content Optimise for Posting Frequency or Content Quality?
+## Disagreement 01 — Publishing Frequency: Volume vs Quality
 
-## Why this disagreement matters
+### Why this disagreement matters
 
-Publishing cadence is one of the most common recommendations in LinkedIn marketing.
+Publishing frequency is one of the easiest areas to turn into a simplistic rule.
 
-However, the research revealed that practitioners define "consistency" differently.
+More publishing can create more opportunities for discovery and experimentation, but frequency can also become counterproductive if it reduces originality, relevance or quality.
 
-Some emphasise publishing frequently.
-
-Others emphasise publishing valuable insights regardless of volume.
-
-This disagreement directly influences how marketing teams allocate time and resources.
 
 ---
 
-## Position A — Consistency Requires Frequent Publishing
+## Contextual Alternative — AI-First Content Automation
+
+### Position A — AI Should Generate Most Marketing Content
 
 ### Evidence Considered
 
-**Creator-focused LinkedIn practitioners**
+An AI-first operating model would push content production substantially further toward automation.
 
-Recurring recommendation across multiple LinkedIn creators.
+Under this model, AI could be used for:
 
-Typical recommendation:
+- research,
+- idea generation,
+- drafting,
+- repurposing,
+- formatting,
+- scheduling,
+- publishing,
+- and performance analysis.
 
-- Publish every day.
-- Build audience familiarity.
-- Increase algorithm exposure.
-- Improve writing through repetition.
+The underlying assumption is that modern AI can reduce the marginal cost of content production enough that marketing teams should optimise for speed, experimentation and output volume.
 
-The underlying assumption is that increased publishing frequency naturally creates more opportunities for audience growth.
+The strongest argument for this approach is operational rather than strategic: if AI can produce acceptable content at a fraction of the time and cost of human production, increasing automation creates more opportunities to test topics, formats and messages.
 
-Position A is not represented by any of my 10 researched experts; it is the dominant creator-economy advice observed across linkedin growth content.
+However, I did not identify a sufficiently specific source among the ten practitioners researched for this repository that explicitly recommends allowing AI to generate and publish most external marketing content with minimal human intervention.
+
+I therefore treat this as a **contextual alternative that I considered**, rather than attributing it to one of the ten practitioners.
+
+This distinction is important because I do not want to manufacture an expert disagreement where the research does not support one.
+
 ---
 
-## Position B — Quality Compounds Faster Than Frequency
+## Position B — AI Should Assist Execution While Humans Retain Strategic Ownership
 
 ### Evidence Considered
 
-**Dave Gerhardt**
+**Kieran Flanagan**
 
-**Title:** Standing Out When Everyone Uses AI
+**Title:** 3 Marketing Jobs Worth Paying 2x For
 
-**Source:** LinkedIn
+**Source:** Newsletter
 
-**Date:** 29 Jun 2026
+**Date:** 12 Jun 2026
 
-https://www.linkedin.com/posts/davegerhardt_how-to-stand-out-when-everyone-is-using-ai-activity-7477314953457094656-L8th
-
-Dave argues that originality becomes increasingly valuable as AI makes content production easier.
+https://www.kieranflanagan.io/p/3-marketing-jobs-worth-paying-2x
 
 ---
 
 **Emily Kramer**
 
-**Title:** How to Build Your Marketing Strategy in Claude
+**Title:** Marketing Strategy in Claude
 
 **Source:** Newsletter
 
@@ -83,47 +87,49 @@ Dave argues that originality becomes increasingly valuable as AI makes content p
 
 https://newsletter.mkt1.co/p/build-marketing-strategy-skill-in-claude-code
 
-Emily consistently prioritises strategic thinking over execution volume.
-
 ---
 
-**Kieran Flanagan**
+**Elena Verna**
 
-**Title:** The Future of AI Marketing & The Modern CMO
+**Title:** AI-Native Growth Playbook
 
 **Source:** YouTube
 
-**Date:** 23 Jun 2025
+**Date:** 18 Dec 2025
 
-https://youtu.be/bT652floQTo
-
-Kieran emphasises differentiated thinking rather than increased production.
+https://youtu.be/6qAB6aUMIeA
 
 ---
 
 ## My Evaluation
 
-Both perspectives contain useful insights.
+The research supports a clear distinction between **automation of execution** and **automation of strategic judgment**.
 
-Publishing consistently increases opportunities for discovery.
+The practitioners I studied generally saw substantial value in using AI for research, drafting, analysis, workflow automation and content operations.
 
-However, I found significantly stronger evidence supporting the importance of differentiated thinking than evidence supporting publishing frequency as a standalone growth strategy.
+However, the evidence I collected did not support handing complete strategic ownership of externally published thought leadership to AI.
 
-Frequency creates opportunities.
+That distinction is important.
 
-Original thinking creates reasons to follow.
+The question is therefore not whether AI should generate content.
 
-Those two concepts should not be treated as interchangeable.
+It clearly can.
 
+The question is whether the organisation should allow AI-generated content to bypass human ownership of positioning, customer understanding, differentiation and editorial judgment.
+
+Based on the evidence I reviewed, I do not believe it should.
 ---
 
-## My Decision
 
-I chose to optimise for **consistent quality rather than consistent quantity**.
+### My Decision
 
-Consistency remains important.
+I take a hybrid position.
 
-However, I define consistency as maintaining a reliable standard of customer value instead of maintaining a fixed publishing schedule.
+AI should materially increase the speed of research, drafting, repurposing and experimentation, but human judgment should remain responsible for positioning, customer insight, differentiation and final editorial approval.
+
+This gives the organisation the operational advantage of AI without making publishing volume the objective.
+
+**Sources:** Kieran Flanagan, *The New Rules of Marketing*, LinkedIn, 03 July 2026; Dave Gerhardt, *Standing Out When Everyone Uses AI*, LinkedIn, 29 June 2026.
 
 ---
 
@@ -176,23 +182,36 @@ That boundary significantly influences originality, trust and brand differentiat
 
 ---
 
-## Position A — AI Should Generate Most Marketing Content
+## Contextual Alternative — AI-First Content Automation
+
+### Position A — AI Should Generate Most Marketing Content
 
 ### Evidence Considered
 
-A growing number of AI-first workflows promote:
+An AI-first operating model would push content production substantially further toward automation.
 
-- automated research,
-- automated drafting,
-- automated publishing,
-- minimal human intervention.
+Under this model, AI could be used for:
 
-The primary benefit is efficiency.
+- research,
+- idea generation,
+- drafting,
+- repurposing,
+- formatting,
+- scheduling,
+- publishing,
+- and performance analysis.
 
-Position A is not represented by any of my 10 researched experts; it is the dominant creator-economy advice observed across linkedin growth content.
----
+The underlying assumption is that modern AI can reduce the marginal cost of content production enough that marketing teams should optimise for speed, experimentation and output volume.
 
-## Position B — AI Should Strengthen Human Judgment
+The strongest argument for this approach is operational rather than strategic: if AI can produce acceptable content at a fraction of the time and cost of human production, increasing automation creates more opportunities to test topics, formats and messages.
+
+However, I did not identify a sufficiently specific source among the ten practitioners researched for this repository that explicitly recommends allowing AI to generate and publish most external marketing content with minimal human intervention.
+
+I therefore treat this as a **contextual alternative that I considered**, rather than attributing it to one of the ten practitioners.
+
+This distinction is important because I do not want to manufacture an expert disagreement where the research does not support one.
+
+## Position B — AI Should Assist Execution While Humans Retain Strategic Ownership
 
 ### Evidence Considered
 
@@ -234,33 +253,37 @@ https://youtu.be/6qAB6aUMIeA
 
 ## My Evaluation
 
-The strongest practitioners consistently treated AI as a capability rather than a replacement for strategic thinking.
+T## My Evaluation
 
-None argued that AI independently understands customers better than experienced marketers.
+The research supports a clear distinction between **automation of execution** and **automation of strategic judgment**.
 
-Instead, AI repeatedly appeared as an execution multiplier.
+The practitioners I studied consistently saw substantial value in using AI for research, drafting, analysis, workflow automation and content operations.
 
+However, the evidence I collected did not support handing complete strategic ownership of externally published thought leadership to AI.
+
+That distinction is important.
+
+The question is therefore not whether AI should generate content.
+
+It clearly can.
+
+The question is whether the organisation should allow AI-generated content to bypass human ownership of positioning, customer understanding, differentiation and editorial judgment.
+
+Based on the evidence I reviewed, I do not believe it should.
 ---
 
-## My Decision
 
-I deliberately positioned AI **after strategy but before execution**.
+### My Decision
 
-Humans remain responsible for:
+I would not choose one model exclusively.
 
-- positioning,
-- customer understanding,
-- messaging,
-- editorial approval.
+For B2B SaaS, I would use founder and employee voices as the distribution layer while maintaining a strong company-level knowledge base.
 
-AI supports:
+The company should own the underlying ideas, research, customer education and strategic narrative. Individuals should make those ideas human, credible and distributable.
 
-- drafting,
-- summarisation,
-- analysis,
-- repurposing,
-- workflow automation.
+This creates a system in which the company builds the intellectual asset while people create the relationship around it.
 
+**Sources:** Kieran Flanagan, *The New Rules of Marketing*, LinkedIn, 03 July 2026; Udi Ledergor, *Gong's Executive Content & LinkedIn Thought Leadership Playbook*, YouTube, 23 October 2025.
 ---
 
 ## Trade-offs
@@ -675,9 +698,6 @@ Many social media frameworks evaluate success primarily through:
 - follower growth.
 
 These metrics provide immediate feedback and are easy to monitor over time.
-
-Position A is not represented by any of my 10 researched experts; it is the dominant creator-economy advice observed across linkedin growth content.
----
 
 ## Position B — Business Outcomes Matter More Than Platform Metrics
 
