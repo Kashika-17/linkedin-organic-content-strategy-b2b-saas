@@ -219,7 +219,11 @@ The goal is to create a sustainable system for producing differentiated, useful 
 ## Repository Status
 
 **Primary Deliverable:** LinkedIn Organic Content Execution Playbook / SOP
+
 **Research Base:** 10 B2B SaaS practitioners
+
 **Supporting Materials:** Research synthesis, operating principles, critical evaluation, rejected recommendations, original ideas, limitations, source notes and decision log
+
 **Status:** Complete
+
 **By: **Kashika Aggarwal
